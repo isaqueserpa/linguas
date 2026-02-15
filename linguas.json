@@ -386,7 +386,7 @@
         },
         {
           "id": "Egípcio",
-          "description": "Ramo que contém a língua dos faraós e sua evolução posterior.",
+          "description": "Ramo que contém a língua dos faraós e sua evolução posterior. Separado cedo do resto da família.",
           "children": [
             { "id": "Egípcio Antigo", "difficulty": "hard", "description": "Língua dos hieróglifos usada no Egito faraônico." },
             { "id": "Copta", "difficulty": "medium", "description": "A última fase da língua egípcia antiga, ainda usada liturgicamente." }
@@ -394,7 +394,7 @@
         },
         {
           "id": "Omótico",
-          "description": "Um grupo diversificado de línguas faladas no sudoeste da Etiópia.",
+          "description": "Um grupo diversificado de línguas faladas no sudoeste da Etiópia com classificação debatida.",
           "children": [
             { "id": "Gamo", "difficulty": "hard", "description": "Língua omótica importante do sul da Etiópia." },
             { "id": "Bench", "difficulty": "hard", "description": "Língua omótica do grupo ta-ne." },
