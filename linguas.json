@@ -426,7 +426,7 @@
   "id": "Malaico", "description": "Grupo linguístico do sudeste asiático marítimo que originou o malaio e o indonésio modernos.",
   "children": [
     { "id": "Malaio", "difficulty": "easy", "description": "Língua oficial da Malásia, Singapura e Brunei." },
-    { "id": "Indonésio", "difficulty": "easy", "description": "Forma padronizada moderna do malaio e língua oficial da Indonésia" }
+    { "id": "Indonésio", "difficulty": "easy", "description": "Forma padronizada moderna do malaio e língua oficial da Indonésia." }
   ]
 },
             {
