@@ -853,4 +853,122 @@
           ]
         }
       ]
+    },
+    {
+      "id": "Nilo-Saariana",
+      "description": "Família extremamente diversa da África Central e Oriental, com gramáticas complexas e sistemas tonais.",
+      "children": [
+        {
+          "id": "Nilótica",
+          "description": "O ramo mais conhecido, falado por povos pastores do leste africano.",
+          "children": [
+            { "id": "Maasai", "difficulty": "hard", "description": "Língua dos guerreiros e pastores do Quênia e Tanzânia." },
+            { "id": "Dinka", "difficulty": "hard", "description": "Língua do maior grupo étnico do Sudão do Sul, famosa por suas distinções de tom e timbre vocal." },
+            { "id": "Luo", "difficulty": "medium", "description": "Língua influente falada ao redor do Lago Vitória." },
+            { "id": "Kalenjin", "difficulty": "hard", "description": "Família de línguas faladas nas terras altas do Quênia." }
+          ]
+        },
+        {
+          "id": "Saariana Central",
+          "description": "Línguas de antigos reinos e rotas comerciais do Saara.",
+          "children": [
+            { "id": "Kanuri", "difficulty": "hard", "description": "Língua principal do antigo Império de Bornu, falada ao redor do Lago Chade." },
+            { "id": "Zaghawa", "difficulty": "hard", "description": "Língua falada no leste do Chade e oeste do Sudão." }
+          ]
+        },
+        {
+          "id": "Núbio",
+          "description": "Línguas históricas ao longo do Rio Nilo, com registros escritos medievais.",
+          "children": [
+            { "id": "Nobiin", "difficulty": "hard", "description": "A variedade mais falada das línguas núbias modernas no Egito e Sudão." }
+          ]
+        },
+        {
+          "id": "Songai (Songhay)",
+          "description": "Línguas do histórico Império Songai no vale do Rio Níger.",
+          "children": [
+            { "id": "Zarma", "difficulty": "medium", "description": "Língua principal do Níger, com uma fonologia tonal interessante." }
+          ]
+        },
+        {
+          "id": "Central Sudânica",
+          "description": "Um grupo vasto e complexo no coração do continente.",
+          "children": [
+            { "id": "Mangbetu", "difficulty": "hard", "description": "Língua da República Democrática do Congo, conhecida por sua estrutura fonética única." },
+            { "id": "Sara", "difficulty": "medium", "description": "A língua mais importante do sul do Chade." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Línguas da Oceania (Papuas e Australianas)",
+      "description": "As línguas mais antigas e diversas da região, não pertencentes ao tronco Austronésio.",
+      "children": [
+        {
+          "id": "Trans-Nova Guiné",
+          "description": "A maior família de línguas papuas, cobrindo o interior montanhoso da ilha.",
+          "children": [
+            { "id": "Enga", "difficulty": "hard", "description": "A língua papua com o maior número de falantes na Papua-Nova Guiné." },
+            { "id": "Melpa", "difficulty": "hard", "description": "Língua falada nas terras altas, conhecida por seu sistema de contagem de base 24." },
+            { "id": "Makahas", "difficulty": "hard", "description": "Língua da região central da ilha com gramática altamente complexa." }
+          ]
+        },
+        {
+          "id": "Outras Famílias Papuas",
+          "description": "Pequenas famílias isoladas que mostram a diversidade única da ilha.",
+          "children": [
+            { "id": "Sandaun", "difficulty": "hard", "description": "Línguas do norte da ilha com fonologias raras." },
+            { "id": "Línguas do Rio Sepik", "difficulty": "hard", "description": "Famosas por suas culturas artísticas e gramáticas baseadas em gênero complexo." }
+          ]
+        },
+        {
+          "id": "Aborígenes Australianas (Pama-Nyungan)",
+          "description": "A principal família linguística da Austrália, cobrindo 90% do continente antes da colonização.",
+          "children": [
+            { "id": "Arrernte", "difficulty": "hard", "description": "Língua do centro da Austrália, famosa por sua fonologia incomum." },
+            { "id": "Pitjantjatjara", "difficulty": "hard", "description": "Língua do povo que vive próximo ao Uluru, com forte tradição espiritual." },
+            { "id": "Warlpiri", "difficulty": "hard", "description": "Conhecida pelos linguistas por permitir quase qualquer ordem de palavras na frase." },
+            { "id": "Yolngu Matha", "difficulty": "hard", "description": "Língua falada no norte da Austrália (Terra de Arnhem)." }
+          ]
+        },
+        {
+          "id": "Línguas Australianas Não-Pama-Nyungan",
+          "description": "Famílias muito antigas restritas ao extremo norte da Austrália.",
+          "children": [
+            { "id": "Tiwi", "difficulty": "hard", "description": "Língua isolada nas ilhas Melville e Bathurst, com verbos incrivelmente longos." }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Línguas Isoladas e Famílias Independentes",
+      "description": "Línguas que não possuem parentesco comprovado com nenhuma outra família no mundo.",
+      "children": [
+        {
+          "id": "Isoladas da Europa e Ásia",
+          "children": [
+            { "id": "Basco (Euskara)", "difficulty": "hard", "description": "Língua pré-indo-europeia falada na Espanha e França; o maior enigma linguístico da Europa." },
+            { "id": "Burushaski", "difficulty": "hard", "description": "Língua isolada falada no norte do Paquistão, em vales remotos do Himalaia." },
+            { "id": "Ainu", "difficulty": "hard", "description": "Língua indígena do norte do Japão (Hokkaido), quase extinta e sem parentesco com o japonês." },
+            { "id": "Nivkh", "difficulty": "hard", "description": "Língua isolada falada na bacia do rio Amur e na ilha de Sacalina, na Rússia." }
+          ]
+        },
+        {
+          "id": "Isoladas das Américas",
+          "children": [
+            { "id": "Tarascano (Purépecha)", "difficulty": "hard", "description": "Língua de uma civilização do México que nunca foi conquistada pelos Astecas." },
+            { "id": "Haida", "difficulty": "hard", "description": "Língua nativa da costa noroeste do Canadá, com fonologia extremamente complexa." }
+          ]
+        },
+        {
+          "id": "Outras Famílias Independentes",
+          "description": "Famílias muito pequenas que não se encaixam nos grandes troncos.",
+          "children": [
+            { "id": "Hmong-Mien", "difficulty": "hard", "description": "Família de línguas das montanhas da China e Sudeste Asiático." },
+            { "id": "Ienisseianas", "difficulty": "hard", "description": "Pequena família da Sibéria central; o Ket é o único sobrevivente." }
+          ]
+        }
+      ]
     }
+  ]
+}
