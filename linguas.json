@@ -185,15 +185,9 @@
           "id": "Ramos Extintos Indo-Europeus",
           "description": "Línguas históricas que ajudam a entender a evolução do Indo-Europeu.",
           "children": [
-            {
-  "id": "Anatólico",
-  "description": "Primeiro ramo a se separar do proto-indo-europeu, hoje extinto.",
-  "children": [
     { "id": "Hitita", "difficulty": "hard", "description": "Língua anatólica mais antiga registrada." },
-    { "id": "Luvita", "difficulty": "hard", "description": "Importante língua anatólica da Anatólia." },
-    { "id": "Lício", "difficulty": "hard", "description": "Língua anatólica da região da Lícia." }
-  ]
-},
+    { "id": "Luvita", "difficulty": "hard", "description": "Importante língua anatólica." },
+    { "id": "Lício", "difficulty": "hard", "description": "Língua anatólica da região da Lícia." },
             { "id": "Tochariano", "difficulty": "hard", "description": "Ramo extinto de línguas faladas na Bacia do Tarim, na atual China." }
           ]
         },
