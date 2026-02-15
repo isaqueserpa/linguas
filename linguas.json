@@ -32,7 +32,7 @@
 { "id": "Persa", "parent": "Indo-Irânico", "difficulty": "medium" },
 { "id": "Curdo", "parent": "Indo-Irânico", "difficulty": "hard" },
 { "id": "Pashto", "parent": "Indo-Irânico", "difficulty": "hard" },
-{ "id": "Balto-Eslavo", parent: "Indo-Europeu" },
+{ "id": "Balto-Eslavo", "parent": "Indo-Europeu" },
 { "id": "Eslavo Oriental", "parent": "Balto-Eslavo" },
 { "id": "Russo", "parent": "Eslavo Oriental", "difficulty": "easy" },
 { "id": "Ucraniano", "parent": "Eslavo Oriental", "difficulty": "medium" },
