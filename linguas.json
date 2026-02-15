@@ -437,16 +437,19 @@
   ]
 },
             {
-  "id": "Barito (Madagascar)",
-  "description": "Subgrupo de Bornéu relacionado à migração austronésia que colonizou Madagascar.",
+  "id": "Barito–Madagascar",
+  "description": "Grupo ligado à migração austronésia de Bornéu até Madagascar.",
   "children": [
-    { "id": "Malgaxe", "difficulty": "medium", "description": "Língua austronésia levada a Madagascar por navegadores de Bornéu." }
+    { "id": "Malgaxe", "difficulty": "medium", "description": "Língua nacional de Madagascar derivada de navegadores austronésios." },
+    { "id": "Ma'anyan", "difficulty": "hard", "description": "Língua de Bornéu considerada a parente mais próxima do malgaxe." }
   ]
 },
             {
               "id": "Oceânico (Polinésio)",
               "description": "Línguas das ilhas remotas do Pacífico.",
               "children": [
+                { "id": "Tonganês", "difficulty": "medium", "description": "Importante língua polinésia do Reino de Tonga." },
+                { "id": "Tuvaluano", "difficulty": "medium", "description": "Língua polinésia das ilhas Tuvalu." },
                 { "id": "Havaiano", "difficulty": "medium", "description": "Língua nativa do Havai, conhecida pelo seu inventário fonético reduzido." },
                 { "id": "Maori", "difficulty": "medium", "description": "Língua indígena da Nova Zelândia, com estatuto oficial." },
                 { "id": "Samoano", "difficulty": "medium", "description": "Língua principal das ilhas Samoa, com fonologia rítmica." },
@@ -462,13 +465,22 @@
                 { "id": "Gilbertês", "difficulty": "hard", "description": "Língua principal de Kiribati." },
                 { "id": "Marshallês", "difficulty": "hard", "description": "Língua oficial das Ilhas Marshall." }
               ]
-            }
+            },
+            {
+  "id": "Melanésio",
+  "description": "Grande diversidade linguística da Melanésia, especialmente Papua-Nova Guiné.",
+  "children": [
+    { "id": "Tolai", "difficulty": "hard", "description": "Língua austronésia importante da Nova Bretanha." },
+    { "id": "Motu", "difficulty": "hard", "description": "Base histórica do pidgin Hiri Motu." }
+  ]
+},
           ]
         },
         {
           "id": "Formosiano",
           "description": "Línguas aborígenes de Taiwan, o berço original da expansão austronésia.",
           "children": [
+            { "id": "Paiwan", "difficulty": "hard", "description": "Uma das línguas formosianas mais estudadas." },
             { "id": "Amis", "difficulty": "hard", "description": "A maior língua indígena de Taiwan." },
             { "id": "Atayal", "difficulty": "hard", "description": "Língua conhecida pelo seu sistema verbal extremamente complexo." }
           ]
