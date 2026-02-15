@@ -412,17 +412,37 @@
           "description": "O principal ramo austronésio, subdividido em centenas de línguas insulares.",
           "children": [
             {
-              "id": "Malaio-Polinésia Ocidental",
-              "description": "Línguas do Sudeste Asiático insular e Madagascar.",
-              "children": [
-                { "id": "Indonésio", "difficulty": "easy", "description": "Língua oficial da Indonésia, baseada no malaio, escrita em alfabeto latino." },
-                { "id": "Malaio", "difficulty": "easy", "description": "Língua oficial da Malásia, Brunei e Singapura." },
-                { "id": "Tagalo (Filipino)", "difficulty": "medium", "description": "Base da língua nacional das Filipinas, com forte influência espanhola." },
-                { "id": "Javanês", "difficulty": "medium", "description": "A língua austronésia com o maior número de falantes nativos." },
-                { "id": "Malgaxe", "difficulty": "medium", "description": "Língua nacional de Madagascar, isolada geograficamente das suas parentes." },
-                { "id": "Cebuano", "difficulty": "medium", "description": "Língua amplamente falada no centro e sul das Filipinas." }
-              ]
-            },
+  "id": "Filipino",
+  "description": "Grupo de línguas austronésias das Filipinas.",
+  "children": [
+    { "id": "Cebuano", "difficulty": "medium", "description": "Língua amplamente falada no centro e sul das Filipinas." },
+    { "id": "Tagalo (Filipino)", "difficulty": "medium", "description": "Base da língua nacional das Filipinas, com forte influência espanhola." },
+    { "id": "Ilocano", "difficulty": "medium", "description": "Importante língua do norte das Filipinas." },
+    { "id": "Waray", "difficulty": "medium", "description": "Língua das Visayas orientais." },
+    { "id": "Kapampangan", "difficulty": "hard", "description": "Língua regional histórica de Luzon central." }
+  ]
+},
+            {
+  "id": "Malaico", "description": "Grupo linguístico do sudeste asiático marítimo que originou o malaio e o indonésio modernos.",
+  "children": [
+    { "id": "Malaio", "difficulty": "easy", "description": "Língua oficial da Malásia, Singapura e Brunei." },
+    { "id": "Indonésio", "difficulty": "easy", "description": "Forma padronizada moderna do malaio e língua oficial da Indonésia" }
+  ]
+},
+            {
+  "id": "Javanês-Sunda",
+  "description": "Línguas principais da ilha de Java e regiões vizinhas, com longa tradição literária.",
+  "children": [
+    { "id": "Javanês", "difficulty": "medium", "description": "Maior língua austronésia por falantes nativos." }
+  ]
+},
+            {
+  "id": "Barito (Madagascar)",
+  "description": "Subgrupo de Bornéu relacionado à migração austronésia que colonizou Madagascar.",
+  "children": [
+    { "id": "Malgaxe", "difficulty": "medium", "description": "Língua austronésia levada a Madagascar por navegadores de Bornéu." }
+  ]
+},
             {
               "id": "Oceânico (Polinésio)",
               "description": "Línguas das ilhas remotas do Pacífico.",
