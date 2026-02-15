@@ -330,11 +330,20 @@
           "description": "O ramo mais conhecido, caracterizado por raízes de palavras baseadas em consoantes (trilaterais).",
           "children": [
             {
+  "id": "Semítico Oriental",
+  "children": [
+    { "id": "Acádio", "difficulty": "medium", "description": "Língua semítica da Mesopotâmia escrita em cuneiforme." },
+    { "id": "Assírio", "difficulty": "medium", "description": "Variante histórica do acadiano usada pelos assírios." },
+    { "id": "Babilônico", "difficulty": "medium", "description": "Dialeto acadiano da Babilônia antiga." }
+  ]
+},
+            {
               "id": "Semítico Central",
               "children": [
-                { "id": "Árabe", "difficulty": "medium", "description": "Língua litúrgica do Islã e língua oficial em mais de 20 países." },
-                { "id": "Hebraico Moderno", "difficulty": "medium", "description": "Língua oficial de Israel, ressuscitada como língua falada no século XIX." },
-                { "id": "Aramaico", "difficulty": "hard", "description": "Língua histórica do Oriente Médio, ainda falada em pequenas comunidades." },
+                { "id": "Ugarítico", "difficulty": "medium", "description": "Antiga língua semítica registrada em um dos primeiros alfabetos." },
+                { "id": "Árabe", "difficulty": "easy", "description": "Língua litúrgica do Islã e língua oficial em mais de 20 países." },
+                { "id": "Hebraico Moderno", "difficulty": "easy", "description": "Língua oficial de Israel, ressuscitada como língua falada no século XIX." },
+                { "id": "Aramaico", "difficulty": "medium", "description": "Língua histórica do Oriente Médio, ainda falada em pequenas comunidades." },
                 { "id": "Maltês", "difficulty": "medium", "description": "Única língua semítica escrita em alfabeto latino e oficial na União Europeia." }
               ]
             },
@@ -351,6 +360,7 @@
           "id": "Berbere (Amazigh)",
           "description": "Línguas nativas do Norte da África, anteriores à expansão árabe.",
           "children": [
+            { "id": "Tashelhit", "difficulty": "hard", "description": "Grande língua berbere do sul de Marrocos." },
             { "id": "Tamazight", "difficulty": "hard", "description": "Língua oficial de Marrocos, escrita com o alfabeto Tifinagh." },
             { "id": "Cabil", "difficulty": "medium", "description": "Língua berbere falada na Argélia por milhões de pessoas." },
             { "id": "Tuaregue", "difficulty": "hard", "description": "Língua dos povos nômades do deserto do Saara." }
@@ -360,7 +370,8 @@
           "id": "Cuchítico",
           "description": "Línguas faladas majoritariamente no Chifre da África.",
           "children": [
-            { "id": "Somali", "difficulty": "hard", "description": "Língua oficial da Somália, com uma rica tradição poética oral." },
+            { "id": "Beja", "difficulty": "hard", "description": "Língua cuchítica do nordeste do Sudão e Mar Vermelho." },
+            { "id": "Somali", "difficulty": "medium", "description": "Língua oficial da Somália, com uma rica tradição poética oral." },
             { "id": "Oromo", "difficulty": "medium", "description": "A língua mais falada na Etiópia, utilizando o alfabeto latino." },
             { "id": "Afar", "difficulty": "hard", "description": "Língua falada nas regiões desérticas de Djibouti, Etiópia e Eritreia." }
           ]
@@ -369,6 +380,7 @@
           "id": "Chádico",
           "description": "Vasto grupo de línguas da África Central, sendo o Hauçá a mais proeminente.",
           "children": [
+            { "id": "Bura", "difficulty": "hard", "description": "Importante língua chádica da Nigéria." },
             { "id": "Hauçá (Hausa)", "difficulty": "medium", "description": "Uma das maiores línguas francas da África Ocidental, usada no comércio." }
           ]
         },
@@ -376,13 +388,16 @@
           "id": "Egípcio",
           "description": "Ramo que contém a língua dos faraós e sua evolução posterior.",
           "children": [
-            { "id": "Copta", "difficulty": "hard", "description": "A última fase da língua egípcia antiga, ainda usada liturgicamente." }
+            { "id": "Egípcio Antigo", "difficulty": "hard", "description": "Língua dos hieróglifos usada no Egito faraônico." },
+            { "id": "Copta", "difficulty": "medium", "description": "A última fase da língua egípcia antiga, ainda usada liturgicamente." }
           ]
         },
         {
           "id": "Omótico",
           "description": "Um grupo diversificado de línguas faladas no sudoeste da Etiópia.",
           "children": [
+            { "id": "Gamo", "difficulty": "hard", "description": "Língua omótica importante do sul da Etiópia." },
+            { "id": "Bench", "difficulty": "hard", "description": "Língua omótica do grupo ta-ne." },
             { "id": "Wolaytta", "difficulty": "hard", "description": "Uma das línguas omóticas mais faladas, com estrutura complexa." }
           ]
         }
