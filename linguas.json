@@ -222,7 +222,7 @@
   ]
 },
 {
-  "id": "Albanês",
+  "id": "Ramo Albanês",
   "description": "Ramo isolado indo-europeu dos Bálcãs.",
   "children": [
     { "id": "Albanês", "difficulty": "medium", "description": "Língua nacional da Albânia." }
@@ -244,7 +244,8 @@
             { "id": "Min Nan (Hokkien)", "difficulty": "hard", "description": "Variedade influente em Taiwan e no sudeste asiático." },
             { "id": "Hakka", "difficulty": "hard", "description": "Língua do povo Hakka, com forte presença histórica e migratória." },
             { "id": "Gan", "difficulty": "hard", "description": "Variedade chinesa falada principalmente na província de Jiangxi." },
-            { "id": "Xiang", "difficulty": "hard", "description": "Também conhecido como Hunanês, falado no centro-sul da China." }
+            { "id": "Xiang", "difficulty": "hard", "description": "Também conhecido como Hunanês, falado no centro-sul da China." },
+            { "id": "Jin", "difficulty": "hard", "description": "Grupo chinês do norte frequentemente separado do mandarim, preserva o tom de entrada histórico." }
           ]
         },
         {
