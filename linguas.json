@@ -433,6 +433,7 @@
   "id": "Javanês-Sunda",
   "description": "Línguas principais da ilha de Java e regiões vizinhas, com longa tradição literária.",
   "children": [
+    { "id": "Sundanês", "difficulty": "medium", "description": "Língua austronésia falada principalmente no oeste da ilha de Java, na região de Sunda, Indonésia." },
     { "id": "Javanês", "difficulty": "medium", "description": "Maior língua austronésia por falantes nativos." }
   ]
 },
