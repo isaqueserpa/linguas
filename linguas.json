@@ -17,6 +17,7 @@
               "children": [
                 { "id": "Português", "difficulty": "easy", "description": "Língua oficial do Brasil e de Portugal." },
                 { "id": "Espanhol", "difficulty": "easy", "description": "Língua românica com mais falantes nativos." },
+                { "id": "Catalão", "difficulty": "medium", "description": "Língua românica da Catalunha e Valência, ponte entre ibero e galo-romance." },
                 { "id": "Galego", "difficulty": "easy", "description": "Língua irmã do português, falada na Galiza." },
                 { "id": "Asturiano", "difficulty": "medium", "description": "Língua regional do norte da Espanha." },
                 { "id": "Aragonês", "difficulty": "hard", "description": "Língua minoritária dos vales dos Pirenéus." }
@@ -27,6 +28,7 @@
               "description": "Línguas da região da França e arredores.",
               "children": [
                 { "id": "Francês", "difficulty": "easy", "description": "Língua da diplomacia, cultura e gastronomia." },
+                { "id": "Francoprovençal (Arpitano)", "difficulty": "hard", "description": "Língua histórica entre França, Suíça e Itália, distinta do francês e do occitânico." },
                 { "id": "Occitânico", "difficulty": "hard", "description": "Língua histórica do sul da França (Língua de Oc)." },
                 { "id": "Bretão-Romance (Gallo)", "difficulty": "hard", "description": "Língua de oïl falada na Bretanha oriental." }
               ]
@@ -36,6 +38,7 @@
               "description": "Variedades da península itálica.",
               "children": [
                 { "id": "Italiano", "difficulty": "easy", "description": "Língua da música, ópera e arte." },
+                { "id": "Sardo", "difficulty": "hard", "description": "Uma das línguas românicas mais conservadoras, falada na Sardenha." },
                 { "id": "Napolitano", "difficulty": "medium", "description": "Língua vibrante do sul da Itália." },
                 { "id": "Siciliano", "difficulty": "medium", "description": "Língua da ilha da Sicília, com influências árabes e gregas." },
                 { "id": "Veneziano", "difficulty": "medium", "description": "Língua histórica da República de Veneza." }
@@ -46,7 +49,9 @@
               "description": "Línguas românicas isoladas no leste europeu.",
               "children": [
                 { "id": "Romeno", "difficulty": "medium", "description": "Língua românica cercada por vizinhos eslavos." },
-                { "id": "Aromeno", "difficulty": "hard", "description": "Língua aparentada ao romeno, falada nos Bálcãs meridionais." }
+                { "id": "Aromeno", "difficulty": "hard", "description": "Língua aparentada ao romeno, falada nos Bálcãs meridionais." },
+                { "id": "Megleno-Romeno", "difficulty": "hard", "description": "Pequena língua românica balcânica aparentada ao romeno." },
+                { "id": "Ístro-Romeno", "difficulty": "hard", "description": "Variedade românica extremamente ameaçada falada na Croácia." }
               ]
             }
           ]
@@ -77,7 +82,14 @@
                 { "id": "Islandês", "difficulty": "hard", "description": "Língua que preservou quase intacta a gramática dos vikings." },
                 { "id": "Feroês", "difficulty": "hard", "description": "Língua das Ilhas Faroé, parente próxima do islandês." }
               ]
-            }
+            },
+{
+  "id": "Germânico Oriental",
+  "description": "Ramo extinto das línguas germânicas antigas.",
+  "children": [
+    { "id": "Gótico", "difficulty": "hard", "description": "Língua germânica extinta registrada na Bíblia de Wulfila." }
+  ]
+}
           ]
         },
         {
@@ -127,14 +139,18 @@
                   "children": [
                     { "id": "Polonês", "difficulty": "hard", "description": "Famosa por sua fonética complexa e muitos dígrafos." },
                     { "id": "Tcheco", "difficulty": "medium", "description": "Conhecida por permitir sequências de consoantes sem vogais." },
-                    { "id": "Eslovaco", "difficulty": "medium", "description": "Língua central do grupo eslavo, com alta inteligibilidade." }
+                    { "id": "Eslovaco", "difficulty": "medium", "description": "Língua central do grupo eslavo, com alta inteligibilidade." },
+                    { "id": "Silesiano", "difficulty": "medium", "description": "Variedade eslava ocidental falada na Silésia, com status linguístico debatido." }
                   ]
                 },
                 {
                   "id": "Eslavo Meridional",
                   "description": "Línguas dos Bálcãs.",
                   "children": [
-                    { "id": "Servo-Croata", "difficulty": "medium", "description": "Sistema linguístico pluricêntrico que une sérvios, croatas, bósnios e montenegrinos." },
+                    { "id": "Sérvio", "difficulty": "medium", "description": "Variante eslava meridional escrita em cirílico e latino." },
+{ "id": "Croata", "difficulty": "medium", "description": "Variante eslava meridional com forte tradição literária latina." },
+{ "id": "Bósnio", "difficulty": "medium", "description": "Variante eslava meridional associada à Bósnia e Herzegovina." },
+{ "id": "Montenegrino", "difficulty": "medium", "description": "Padronização recente do continuum servo-croata." },
                     { "id": "Búlgaro", "difficulty": "medium", "description": "Única língua eslava a utilizar artigos e perder os casos gramaticais." },
                     { "id": "Esloveno", "difficulty": "hard", "description": "Mantém o número 'dual' na gramática, uma raridade indo-europeia." }
                   ]
@@ -166,7 +182,44 @@
             { "id": "Hitita", "difficulty": "hard", "description": "Língua extinta do ramo Anatólio, a mais antiga registrada do grupo." },
             { "id": "Tochariano", "difficulty": "hard", "description": "Ramo extinto de línguas faladas na Bacia do Tarim, na atual China." }
           ]
-        }
+        },
+{
+  "id": "Indo-Iraniano",
+  "description": "Maior ramo do indo-europeu em número de falantes, abrangendo Irã e Sul da Ásia.",
+  "children": [
+    {
+      "id": "Indo-Ariano",
+      "children": [
+        { "id": "Hindi", "difficulty": "medium", "description": "Uma das línguas mais faladas do mundo." },
+        { "id": "Urdu", "difficulty": "medium", "description": "Variante literária próxima do hindi escrita em alfabeto persa." },
+        { "id": "Bengali", "difficulty": "medium", "description": "Língua majoritária de Bangladesh." },
+        { "id": "Punjabi", "difficulty": "medium", "description": "Importante língua do norte da Índia e Paquistão." }
+      ]
+    },
+    {
+      "id": "Iraniano",
+      "children": [
+        { "id": "Persa (Farsi)", "difficulty": "medium", "description": "Língua histórica do Irã." },
+        { "id": "Curdo", "difficulty": "medium", "description": "Conjunto de línguas iranianas do Curdistão." },
+        { "id": "Pashto", "difficulty": "medium", "description": "Língua iraniana do Afeganistão." }
+      ]
+    }
+  ]
+},
+{
+  "id": "Armênio",
+  "description": "Ramo independente do indo-europeu com alfabeto próprio.",
+  "children": [
+    { "id": "Armênio Moderno", "difficulty": "medium", "description": "Língua nacional da Armênia." }
+  ]
+},
+{
+  "id": "Albanês",
+  "description": "Ramo isolado indo-europeu dos Bálcãs.",
+  "children": [
+    { "id": "Albanês", "difficulty": "medium", "description": "Língua nacional da Albânia." }
+  ]
+}
       ]
     },
     {
