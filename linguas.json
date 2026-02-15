@@ -238,8 +238,18 @@
           "id": "Sínico (Chinês)",
           "description": "O grupo das variedades linguísticas chinesas, unidas por um sistema de escrita comum.",
           "children": [
-            { "id": "Mandarim", "difficulty": "hard", "description": "A língua mais falada do mundo por nativos, oficial na China e Taiwan." },
-            { "id": "Cantonês (Yue)", "difficulty": "hard", "description": "Língua de prestígio do sul da China e Hong Kong, com 9 tons." },
+            { 
+  "id": "Huizhou", 
+  "difficulty": "hard",
+  "description": "Pequeno grupo altamente divergente falado em Anhui e Zhejiang." 
+},
+{ 
+  "id": "Pinghua", 
+  "difficulty": "hard",
+  "description": "Variedades do sul da China com características arcaicas distintas do cantonês." 
+},
+            { "id": "Mandarim", "difficulty": "medium", "description": "A língua mais falada do mundo por nativos, oficial na China e Taiwan." },
+            { "id": "Cantonês (Yue)", "difficulty": "medium", "description": "Língua de prestígio do sul da China e Hong Kong, com 9 tons." },
             { "id": "Wu (Xangainês)", "difficulty": "hard", "description": "Falada na região de Xangai, conhecida por sua fonética suave." },
             { "id": "Min Nan (Hokkien)", "difficulty": "hard", "description": "Variedade influente em Taiwan e no sudeste asiático." },
             { "id": "Hakka", "difficulty": "hard", "description": "Língua do povo Hakka, com forte presença histórica e migratória." },
@@ -252,6 +262,22 @@
           "id": "Tibeto-Birmanês",
           "description": "Ramo que abrange centenas de línguas das montanhas do Himalaia ao sudeste asiático.",
           "children": [
+            {
+  "id": "Qiangic",
+  "description": "Grupo montanhoso do oeste da China com línguas altamente conservadoras.",
+  "children": [
+    { "id": "Qiang", "difficulty": "hard", "description": "Língua minoritária da província de Sichuan." },
+    { "id": "rGyalrong", "difficulty": "hard", "description": "Conjunto linguístico famoso por sua morfologia extremamente complexa." }
+  ]
+},
+            {
+  "id": "Tani",
+  "description": "Grupo de línguas tibeto-birmanesas do nordeste da Índia, especialmente Arunachal Pradesh.",
+  "children": [
+    { "id": "Adi", "difficulty": "hard", "description": "Língua tani falada no nordeste da Índia." },
+    { "id": "Nyishi", "difficulty": "hard", "description": "Uma das maiores línguas tani." }
+  ]
+},
             {
               "id": "Lolo-Birmanês",
               "description": "Subgrupo que inclui a principal língua de Myanmar.",
@@ -269,7 +295,7 @@
             },
             {
               "id": "Karenic",
-              "description": "Grupo de línguas faladas pelos povos Karen na fronteira entre Myanmar e Tailândia.",
+              "description": "Grupo de línguas faladas pelos povos Karen na fronteira entre Myanmar e Tailândia hoje com classificação incerta.",
               "children": [
                 { "id": "S'gaw Karen", "difficulty": "hard", "description": "A variante mais falada entre as línguas Karen." },
                 { "id": "Pwo Karen", "difficulty": "hard", "description": "Língua conhecida por seu complexo sistema de tons e vogais." }
