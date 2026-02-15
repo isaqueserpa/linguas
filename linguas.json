@@ -55,7 +55,6 @@
   { "id": "Finlandês", "parent": "Fínico", "difficulty": "medium", "description": "Língua aglutinante oficial da Finlândia, distinta das escandinavas." },
   { "id": "Ugro", "parent": "Urálico", "description": "Ramo das línguas urálicas que inclui o húngaro." },
   { "id": "Húngaro", "parent": "Ugro", "difficulty": "medium", "description": "Língua isolada no centro da Europa com sistema gramatical único." },
-  [
   { "id": "Niger-Congo", "parent": "Mundo", "description": "Uma das maiores famílias do mundo, abrangendo a maior parte da África Subsaariana." },
   { "id": "Benue-Congo", "parent": "Niger-Congo", "description": "Vasto ramo que inclui as línguas bantas, fundamentais para a cultura africana." },
   { "id": "Banto", "parent": "Benue-Congo", "description": "Grupo de centenas de línguas que se expandiram por quase todo o sul do continente." },
@@ -88,7 +87,6 @@
   { "id": "Grego", "parent": "Indo-Europeu", "description": "Um dos ramos independentes mais antigos do tronco Indo-Europeu." },
   { "id": "Grego Moderno", "parent": "Grego", "difficulty": "medium", "description": "Evolução do grego ático, utilizando o alfabeto grego clássico." },
   { "id": "Armênio", "parent": "Indo-Europeu", "difficulty": "hard", "description": "Ramo independente com alfabeto próprio, falado na região do Cáucaso." },
-    [
   { "id": "Quechua", "parent": "Mundo", "description": "Família de línguas dos Andes centrais, herdeira direta do Império Inca." },
   { "id": "Quechua II", "parent": "Quechua", "description": "O ramo mais difundido do Quechua, falado do Equador ao Chile." },
   { "id": "Quechua Cuzquenho", "parent": "Quechua II", "difficulty": "medium", "description": "Variedade clássica de Cusco, considerada por muitos como o padrão cultural." },
@@ -141,7 +139,7 @@
   { "id": "Páez", "parent": "Chibcha", "difficulty": "hard", "description": "Língua falada pelo povo Nasa na Colômbia, com estrutura gramatical única." },
   { "id": "Sino-Tibetana Ocidental", "parent": "Sino-Tibetana", "description": "Ramo que abrange as línguas das regiões do Himalaia." },
   { "id": "Tibetano", "parent": "Sino-Tibetana Ocidental", "difficulty": "medium", "description": "Língua litúrgica do budismo tibetano, com escrita silábica própria." },
-  { "id": "Búr彌ês", "parent": "Sino-Tibetana Ocidental", "difficulty": "medium", "description": "Língua tonal oficial de Myanmar, com escrita circular característica." },
+  { "id": "Birmanês", "parent": "Sino-Tibetana Ocidental", "difficulty": "medium", "description": "Língua tonal oficial de Myanmar, com escrita circular característica." },
   { "id": "Báltico", "parent": "Balto-Eslavo", "description": "Ramo das línguas indo-europeias que mantém traços muito arcaicos." },
   { "id": "Lituano", "parent": "Báltico", "difficulty": "hard", "description": "Língua viva que mais se assemelha às raízes do proto-indo-europeu." },
   { "id": "Letão", "parent": "Báltico", "difficulty": "medium", "description": "Língua oficial da Letônia, com influências gramaticais complexas e únicas." },
