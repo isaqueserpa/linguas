@@ -147,10 +147,16 @@
                   "id": "Eslavo Meridional",
                   "description": "Línguas dos Bálcãs.",
                   "children": [
-                    { "id": "Sérvio", "difficulty": "medium", "description": "Variante eslava meridional escrita em cirílico e latino." },
-{ "id": "Croata", "difficulty": "medium", "description": "Variante eslava meridional com forte tradição literária latina." },
-{ "id": "Bósnio", "difficulty": "medium", "description": "Variante eslava meridional associada à Bósnia e Herzegovina." },
-{ "id": "Montenegrino", "difficulty": "medium", "description": "Padronização recente do continuum servo-croata." },
+                   {
+  "id": "Servo-Croata",
+  "description": "Continuum linguístico eslavo meridional padronizado em variantes nacionais.",
+  "children": [
+    { "id": "Sérvio", "difficulty": "medium", "description": "Variante eslava meridional escrita em cirílico e latino." },
+    { "id": "Croata", "difficulty": "medium", "description": "Variante eslava meridional com forte tradição literária latina." },
+    { "id": "Bósnio", "difficulty": "medium", "description": "Variante associada à Bósnia e Herzegovina." },
+    { "id": "Montenegrino", "difficulty": "medium", "description": "Padronização recente do continuum servo-croata." }
+  ]
+},
                     { "id": "Búlgaro", "difficulty": "medium", "description": "Única língua eslava a utilizar artigos e perder os casos gramaticais." },
                     { "id": "Esloveno", "difficulty": "hard", "description": "Mantém o número 'dual' na gramática, uma raridade indo-europeia." }
                   ]
