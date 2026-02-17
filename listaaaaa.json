@@ -1,0 +1,908 @@
+{
+  "family": "Indo-European",
+  "familyPortuguese": "Indo-europeu",
+  "iso639_3": null,
+  "description": "Root family encompassing all Indo-European languages",
+  "subfamilies": [
+    {
+      "family": "Anatolian",
+      "familyPortuguese": "Anatólio",
+      "languages": [
+        {
+          "englishName": "Hittite",
+          "portugueseName": "Hitita",
+          "iso639_3": "hit",
+          "extinct": true
+        },
+        {
+          "englishName": "Luwian",
+          "portugueseName": "Lúvio",
+          "iso639_3": "xlu",
+          "extinct": true
+        },
+        {
+          "englishName": "Palaic",
+          "portugueseName": "Palaico",
+          "iso639_3": "phn",
+          "extinct": true
+        }
+      ]
+    },
+    {
+      "family": "Tocharian",
+      "familyPortuguese": "Tocário",
+      "languages": [
+        {
+          "englishName": "Tocharian A",
+          "portugueseName": "Tocário A",
+          "iso639_3": "xta",
+          "extinct": true
+        },
+        {
+          "englishName": "Tocharian B",
+          "portugueseName": "Tocário B",
+          "iso639_3": "xtb",
+          "extinct": true
+        }
+      ]
+    },
+    {
+      "family": "Italic",
+      "familyPortuguese": "Itálico",
+      "subfamilies": [
+        {
+          "family": "Latino-Faliscan",
+          "familyPortuguese": "Latino-Falisco",
+          "subfamilies": [
+            {
+              "family": "Latin",
+              "familyPortuguese": "Latim",
+              "subfamilies": [
+                {
+                  "family": "Romance",
+                  "familyPortuguese": "Românico",
+                  "subfamilies": [
+                    {
+                      "family": "Italo-Romance",
+                      "familyPortuguese": "Italo-Românico",
+                      "languages": [
+                        {
+                          "englishName": "Italian",
+                          "portugueseName": "Italiano",
+                          "iso639_3": "ita"
+                        },
+                        {
+                          "englishName": "Sardinian",
+                          "portugueseName": "Sardo",
+                          "iso639_3": "srd"
+                        }
+                      ]
+                    },
+                    {
+                      "family": "Romansh",
+                      "familyPortuguese": "Romanche",
+                      "languages": [
+                        {
+                          "englishName": "Romansh",
+                          "portugueseName": "Romanche",
+                          "iso639_3": "roh"
+                        }
+                      ]
+                    },
+                    {
+                      "family": "Rhaeto-Romance",
+                      "familyPortuguese": "Reto-Românico",
+                      "languages": [
+                        {
+                          "englishName": "Friulian",
+                          "portugueseName": "Friulano",
+                          "iso639_3": "fur"
+                        },
+                        {
+                          "englishName": "Ladin",
+                          "portugueseName": "Ladino (Trentino)",
+                          "iso639_3": "lld"
+                        }
+                      ]
+                    },
+                    {
+                      "family": "Western Romance",
+                      "familyPortuguese": "Românico Ocidental",
+                      "subfamilies": [
+                        {
+                          "family": "Ibero-Romance",
+                          "familyPortuguese": "Ibero-Românico",
+                          "subfamilies": [
+                            {
+                              "family": "Spanish",
+                              "familyPortuguese": "Espanhol",
+                              "languages": [
+                                {
+                                  "englishName": "Spanish",
+                                  "portugueseName": "Espanhol",
+                                  "iso639_3": "spa"
+                                }
+                              ]
+                            },
+                            {
+                              "family": "Portuguese",
+                              "familyPortuguese": "Português",
+                              "languages": [
+                                {
+                                  "englishName": "Portuguese",
+                                  "portugueseName": "Português",
+                                  "iso639_3": "por"
+                                }
+                              ]
+                            },
+                            {
+                              "family": "Galician",
+                              "familyPortuguese": "Galego",
+                              "languages": [
+                                {
+                                  "englishName": "Galician",
+                                  "portugueseName": "Galego",
+                                  "iso639_3": "glg"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "family": "Occitano-Romance",
+                          "familyPortuguese": "Occitano-Românico",
+                          "languages": [
+                            {
+                              "englishName": "Occitan",
+                              "portugueseName": "Occitano",
+                              "iso639_3": "oci"
+                            }
+                          ]
+                        },
+                        {
+                          "family": "Gallo-Romance",
+                          "familyPortuguese": "Galo-Românico",
+                          "subfamilies": [
+                            {
+                              "family": "Oïl languages",
+                              "familyPortuguese": "Línguas de oïl",
+                              "languages": [
+                                {
+                                  "englishName": "French",
+                                  "portugueseName": "Francês",
+                                  "iso639_3": "fra"
+                                },
+                                {
+                                  "englishName": "Norman",
+                                  "portugueseName": "Normando",
+                                  "iso639_3": "nrf"
+                                },
+                                {
+                                  "englishName": "Picard",
+                                  "portugueseName": "Picardo",
+                                  "iso639_3": "pcd"
+                                }
+                              ]
+                            },
+                            {
+                              "family": "Langues d'oc supplement",
+                              "familyPortuguese": "Línguas de oc suplemento",
+                              "languages": [
+                                {
+                                  "englishName": "Catalan",
+                                  "portugueseName": "Catalão",
+                                  "iso639_3": "cat"
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "family": "Eastern Romance",
+                      "familyPortuguese": "Românico Oriental",
+                      "languages": [
+                        {
+                          "englishName": "Romanian",
+                          "portugueseName": "Romeno",
+                          "iso639_3": "ron"
+                        },
+                        {
+                          "englishName": "Aromanian",
+                          "portugueseName": "Aromeno",
+                          "iso639_3": "rup"
+                        },
+                        {
+                          "englishName": "Megleno-Romanian",
+                          "portugueseName": "Megleno-romeno",
+                          "iso639_3": "ruq"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Faliscan",
+              "familyPortuguese": "Falisco",
+              "languages": [
+                {
+                  "englishName": "Faliscan",
+                  "portugueseName": "Falisco",
+                  "iso639_3": "xfa",
+                  "extinct": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "family": "Osco-Umbrian",
+          "familyPortuguese": "Osco-Úmbrio",
+          "languages": [
+            {
+              "englishName": "Oscan",
+              "portugueseName": "Osco",
+              "iso639_3": "osc",
+              "extinct": true
+            },
+            {
+              "englishName": "Umbrian",
+              "portugueseName": "Úmbrio",
+              "iso639_3": "xum",
+              "extinct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Celtic",
+      "familyPortuguese": "Céltico",
+      "subfamilies": [
+        {
+          "family": "Insular Celtic",
+          "familyPortuguese": "Céltico Insular",
+          "subfamilies": [
+            {
+              "family": "Goidelic",
+              "familyPortuguese": "Goidélico",
+              "languages": [
+                {
+                  "englishName": "Irish",
+                  "portugueseName": "Irlandês",
+                  "iso639_3": "gle"
+                },
+                {
+                  "englishName": "Scottish Gaelic",
+                  "portugueseName": "Gaélico Escocês",
+                  "iso639_3": "gla"
+                },
+                {
+                  "englishName": "Manx",
+                  "portugueseName": "Manquês",
+                  "iso639_3": "glv"
+                }
+              ]
+            },
+            {
+              "family": "Brythonic",
+              "familyPortuguese": "Britônico",
+              "languages": [
+                {
+                  "englishName": "Welsh",
+                  "portugueseName": "Galês",
+                  "iso639_3": "cym"
+                },
+                {
+                  "englishName": "Breton",
+                  "portugueseName": "Bretão",
+                  "iso639_3": "bre"
+                },
+                {
+                  "englishName": "Cornish",
+                  "portugueseName": "Córnico",
+                  "iso639_3": "cor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "family": "Continental Celtic",
+          "familyPortuguese": "Céltico Continental",
+          "languages": [
+            {
+              "englishName": "Celtiberian",
+              "portugueseName": "Celtibérico",
+              "iso639_3": "xce",
+              "extinct": true
+            },
+            {
+              "englishName": "Gaulish",
+              "portugueseName": "Gaulês",
+              "iso639_3": "xga",
+              "extinct": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Germanic",
+      "familyPortuguese": "Germânico",
+      "subfamilies": [
+        {
+          "family": "North Germanic",
+          "familyPortuguese": "Germânico do Norte",
+          "subfamilies": [
+            {
+              "family": "Swedish-Norwegian",
+              "familyPortuguese": "Sueco-Norueguês",
+              "languages": [
+                {
+                  "englishName": "Swedish",
+                  "portugueseName": "Sueco",
+                  "iso639_3": "swe"
+                },
+                {
+                  "englishName": "Norwegian",
+                  "portugueseName": "Norueguês",
+                  "iso639_3": "nor"
+                }
+              ]
+            },
+            {
+              "family": "Danish-Faroese",
+              "familyPortuguese": "Dinamarquês-Faroês",
+              "languages": [
+                {
+                  "englishName": "Danish",
+                  "portugueseName": "Dinamarquês",
+                  "iso639_3": "dan"
+                },
+                {
+                  "englishName": "Faroese",
+                  "portugueseName": "Faroês",
+                  "iso639_3": "fao"
+                }
+              ]
+            },
+            {
+              "family": "Icelandic",
+              "familyPortuguese": "Islandês",
+              "languages": [
+                {
+                  "englishName": "Icelandic",
+                  "portugueseName": "Islandês",
+                  "iso639_3": "isl"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "family": "West Germanic",
+          "familyPortuguese": "Germânico Ocidental",
+          "subfamilies": [
+            {
+              "family": "Anglo-Frisian",
+              "familyPortuguese": "Anglo-Frísio",
+              "subfamilies": [
+                {
+                  "family": "Anglic",
+                  "familyPortuguese": "Anglico",
+                  "languages": [
+                    {
+                      "englishName": "English",
+                      "portugueseName": "Inglês",
+                      "iso639_3": "eng"
+                    }
+                  ]
+                },
+                {
+                  "family": "Frisian",
+                  "familyPortuguese": "Frísio",
+                  "languages": [
+                    {
+                      "englishName": "Western Frisian",
+                      "portugueseName": "Frísio Ocidental",
+                      "iso639_3": "fry"
+                    },
+                    {
+                      "englishName": "Eastern Frisian",
+                      "portugueseName": "Frísio Oriental",
+                      "iso639_3": "frs"
+                    },
+                    {
+                      "englishName": "Northern Frisian",
+                      "portugueseName": "Frísio do Norte",
+                      "iso639_3": "frr"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Low Germanic",
+              "familyPortuguese": "Germânico Baixo",
+              "languages": [
+                {
+                  "englishName": "Low German",
+                  "portugueseName": "Baixo-Alemão",
+                  "iso639_3": "nds"
+                },
+                {
+                  "englishName": "Low Saxon",
+                  "portugueseName": "Saxão Baixo",
+                  "iso639_3": "nds"
+                }
+              ]
+            },
+            {
+              "family": "High Germanic",
+              "familyPortuguese": "Germânico Alto",
+              "subfamilies": [
+                {
+                  "family": "Upper Saxon",
+                  "familyPortuguese": "Saxão Superior",
+                  "languages": [
+                    {
+                      "englishName": "Upper Saxon",
+                      "portugueseName": "Saxão Superior",
+                      "iso639_3": "sxu"
+                    }
+                  ]
+                },
+                {
+                  "family": "Bavarian-Austrian",
+                  "familyPortuguese": "Bávaro-Austríaco",
+                  "languages": [
+                    {
+                      "englishName": "Bavarian",
+                      "portugueseName": "Bávaro",
+                      "iso639_3": "bar"
+                    }
+                  ]
+                },
+                {
+                  "family": "Standard German",
+                  "familyPortuguese": "Alemão Padrão",
+                  "languages": [
+                    {
+                      "englishName": "German",
+                      "portugueseName": "Alemão",
+                      "iso639_3": "deu"
+                    }
+                  ]
+                },
+                {
+                  "family": "Yiddish",
+                  "familyPortuguese": "Ídiche",
+                  "languages": [
+                    {
+                      "englishName": "Yiddish",
+                      "portugueseName": "Ídiche",
+                      "iso639_3": "yid"
+                    }
+                  ]
+                },
+                {
+                  "family": "Luxembourgish",
+                  "familyPortuguese": "Luxemburguês",
+                  "languages": [
+                    {
+                      "englishName": "Luxembourgish",
+                      "portugueseName": "Luxemburguês",
+                      "iso639_3": "ltz"
+                    }
+                  ]
+                },
+                {
+                  "family": "Dutch-Afrikaans",
+                  "familyPortuguese": "Holandês-Africânder",
+                  "languages": [
+                    {
+                      "englishName": "Dutch",
+                      "portugueseName": "Holandês",
+                      "iso639_3": "nld"
+                    },
+                    {
+                      "englishName": "Afrikaans",
+                      "portugueseName": "Africânder",
+                      "iso639_3": "afr"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Balto-Slavic",
+      "familyPortuguese": "Balto-Eslavo",
+      "subfamilies": [
+        {
+          "family": "Baltic",
+          "familyPortuguese": "Báltico",
+          "languages": [
+            {
+              "englishName": "Lithuanian",
+              "portugueseName": "Lituano",
+              "iso639_3": "lit"
+            },
+            {
+              "englishName": "Latvian",
+              "portugueseName": "Letão",
+              "iso639_3": "lav"
+            }
+          ]
+        },
+        {
+          "family": "Slavic",
+          "familyPortuguese": "Eslavo",
+          "subfamilies": [
+            {
+              "family": "East Slavic",
+              "familyPortuguese": "Eslavo Oriental",
+              "languages": [
+                {
+                  "englishName": "Russian",
+                  "portugueseName": "Russo",
+                  "iso639_3": "rus"
+                },
+                {
+                  "englishName": "Belarusian",
+                  "portugueseName": "Bielorrusso",
+                  "iso639_3": "bel"
+                },
+                {
+                  "englishName": "Ukrainian",
+                  "portugueseName": "Ucraniano",
+                  "iso639_3": "ukr"
+                }
+              ]
+            },
+            {
+              "family": "West Slavic",
+              "familyPortuguese": "Eslavo Ocidental",
+              "subfamilies": [
+                {
+                  "family": "Lechitic",
+                  "familyPortuguese": "Lechítico",
+                  "languages": [
+                    {
+                      "englishName": "Polish",
+                      "portugueseName": "Polonês",
+                      "iso639_3": "pol"
+                    },
+                    {
+                      "englishName": "Silesian",
+                      "portugueseName": "Silésio",
+                      "iso639_3": "szl"
+                    },
+                    {
+                      "englishName": "Kashubian",
+                      "portugueseName": "Cassubiano",
+                      "iso639_3": "csb"
+                    }
+                  ]
+                },
+                {
+                  "family": "Czech-Slovak",
+                  "familyPortuguese": "Tcheco-Eslovaco",
+                  "languages": [
+                    {
+                      "englishName": "Czech",
+                      "portugueseName": "Tcheco",
+                      "iso639_3": "ces"
+                    },
+                    {
+                      "englishName": "Slovak",
+                      "portugueseName": "Eslovaco",
+                      "iso639_3": "slk"
+                    }
+                  ]
+                },
+                {
+                  "family": "Sorbian",
+                  "familyPortuguese": "Sórbio",
+                  "languages": [
+                    {
+                      "englishName": "Upper Sorbian",
+                      "portugueseName": "Sórbio Superior",
+                      "iso639_3": "hsb"
+                    },
+                    {
+                      "englishName": "Lower Sorbian",
+                      "portugueseName": "Sórbio Inferior",
+                      "iso639_3": "dsb"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "South Slavic",
+              "familyPortuguese": "Eslavo Meridional",
+              "subfamilies": [
+                {
+                  "family": "Western South Slavic",
+                  "familyPortuguese": "Eslavo Meridional Ocidental",
+                  "subfamilies": [
+                    {
+                      "family": "Serbo-Croatian",
+                      "familyPortuguese": "Servo-Croata",
+                      "languages": [
+                        {
+                          "englishName": "Serbian",
+                          "portugueseName": "Sérvio",
+                          "iso639_3": "srp"
+                        },
+                        {
+                          "englishName": "Croatian",
+                          "portugueseName": "Croata",
+                          "iso639_3": "hrv"
+                        },
+                        {
+                          "englishName": "Bosnian",
+                          "portugueseName": "Bósnio",
+                          "iso639_3": "bos"
+                        },
+                        {
+                          "englishName": "Montenegrin",
+                          "portugueseName": "Montenegrino",
+                          "iso639_3": "cnr"
+                        }
+                      ]
+                    },
+                    {
+                      "family": "Slovenian",
+                      "familyPortuguese": "Esloveno",
+                      "languages": [
+                        {
+                          "englishName": "Slovenian",
+                          "portugueseName": "Esloveno",
+                          "iso639_3": "slv"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "family": "Eastern South Slavic",
+                  "familyPortuguese": "Eslavo Meridional Oriental",
+                  "languages": [
+                    {
+                      "englishName": "Bulgarian",
+                      "portugueseName": "Búlgaro",
+                      "iso639_3": "bul"
+                    },
+                    {
+                      "englishName": "Macedonian",
+                      "portugueseName": "Macedônico",
+                      "iso639_3": "mkd"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Greek",
+      "familyPortuguese": "Grego",
+      "languages": [
+        {
+          "englishName": "Greek",
+          "portugueseName": "Grego",
+          "iso639_3": "ell"
+        }
+      ]
+    },
+    {
+      "family": "Indo-Iranian",
+      "familyPortuguese": "Indo-Iraniano",
+      "subfamilies": [
+        {
+          "family": "Indic",
+          "familyPortuguese": "Índico",
+          "subfamilies": [
+            {
+              "family": "Northern Indic",
+              "familyPortuguese": "Índico Setentrional",
+              "languages": [
+                {
+                  "englishName": "Sanskrit",
+                  "portugueseName": "Sânscrito",
+                  "iso639_3": "san",
+                  "extinct": true
+                }
+              ]
+            },
+            {
+              "family": "Middle Indic",
+              "familyPortuguese": "Índico Médio",
+              "subfamilies": [
+                {
+                  "family": "Prakrit",
+                  "familyPortuguese": "Prácrito",
+                  "languages": [
+                    {
+                      "englishName": "Pali",
+                      "portugueseName": "Páli",
+                      "iso639_3": "pli"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Modern Indic",
+              "familyPortuguese": "Índico Moderno",
+              "subfamilies": [
+                {
+                  "family": "Northern Modern Indic",
+                  "familyPortuguese": "Índico Moderno Setentrional",
+                  "languages": [
+                    {
+                      "englishName": "Hindi",
+                      "portugueseName": "Hindi",
+                      "iso639_3": "hin"
+                    },
+                    {
+                      "englishName": "Urdu",
+                      "portugueseName": "Urdu",
+                      "iso639_3": "urd"
+                    },
+                    {
+                      "englishName": "Punjabi",
+                      "portugueseName": "Punjabi",
+                      "iso639_3": "pan"
+                    },
+                    {
+                      "englishName": "Marathi",
+                      "portugueseName": "Marati",
+                      "iso639_3": "mar"
+                    },
+                    {
+                      "englishName": "Gujarati",
+                      "portugueseName": "Gujarati",
+                      "iso639_3": "guj"
+                    },
+                    {
+                      "englishName": "Kashmiri",
+                      "portugueseName": "Caxemira",
+                      "iso639_3": "kas"
+                    },
+                    {
+                      "englishName": "Nepali",
+                      "portugueseName": "Nepalês",
+                      "iso639_3": "nep"
+                    }
+                  ]
+                },
+                {
+                  "family": "Central Modern Indic",
+                  "familyPortuguese": "Índico Moderno Central",
+                  "languages": [
+                    {
+                      "englishName": "Bengali",
+                      "portugueseName": "Bengali",
+                      "iso639_3": "ben"
+                    },
+                    {
+                      "englishName": "Assamese",
+                      "portugueseName": "Assamês",
+                      "iso639_3": "asm"
+                    },
+                    {
+                      "englishName": "Odia",
+                      "portugueseName": "Odia",
+                      "iso639_3": "ory"
+                    }
+                  ]
+                },
+                {
+                  "family": "Southern Modern Indic",
+                  "familyPortuguese": "Índico Moderno Meridional",
+                  "languages": [
+                    {
+                      "englishName": "Sinhala",
+                      "portugueseName": "Cingalês",
+                      "iso639_3": "sin"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "family": "Iranian",
+          "familyPortuguese": "Iraniano",
+          "subfamilies": [
+            {
+              "family": "Western Iranian",
+              "familyPortuguese": "Iraniano Ocidental",
+              "subfamilies": [
+                {
+                  "family": "Southwestern Iranian",
+                  "familyPortuguese": "Iraniano Sudocidental",
+                  "languages": [
+                    {
+                      "englishName": "Persian",
+                      "portugueseName": "Persa",
+                      "iso639_3": "fas"
+                    }
+                  ]
+                },
+                {
+                  "family": "Northwestern Iranian",
+                  "familyPortuguese": "Iraniano Noroeste",
+                  "languages": [
+                    {
+                      "englishName": "Kurdish",
+                      "portugueseName": "Curdo",
+                      "iso639_3": "kur"
+                    },
+                    {
+                      "englishName": "Balochi",
+                      "portugueseName": "Balúchi",
+                      "iso639_3": "bal"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "family": "Eastern Iranian",
+              "familyPortuguese": "Iraniano Oriental",
+              "languages": [
+                {
+                  "englishName": "Pashto",
+                  "portugueseName": "Pachtó",
+                  "iso639_3": "pus"
+                },
+                {
+                  "englishName": "Pamir languages",
+                  "portugueseName": "Línguas do Pamir",
+                  "iso639_3": null,
+                  "note": "Group rather than single language"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Armenian",
+      "familyPortuguese": "Armênio",
+      "languages": [
+        {
+          "englishName": "Armenian",
+          "portugueseName": "Armênio",
+          "iso639_3": "hye"
+        }
+      ]
+    },
+    {
+      "family": "Albanian",
+      "familyPortuguese": "Albanês",
+      "languages": [
+        {
+          "englishName": "Albanian",
+          "portugueseName": "Albanês",
+          "iso639_3": "sqi"
+        }
+      ]
+    }
+  ]
+}
