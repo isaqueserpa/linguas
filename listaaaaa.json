@@ -905,4 +905,272 @@
       ]
     }
   ]
+},
+{
+  "family": {
+    "name_english": "Uralic",
+    "name_portuguese": "Urálico",
+    "iso_639_5": "urj",
+    "branches": [
+      {
+        "name_english": "Finno-Ugric",
+        "name_portuguese": "Fino-Úgrico",
+        "sub_branches": [
+          {
+            "name_english": "Finnic",
+            "name_portuguese": "Fino",
+            "languages": [
+              {
+                "name_english": "Finnish",
+                "name_portuguese": "Finlandês",
+                "iso_639_3": "fin"
+              },
+              {
+                "name_english": "Estonian",
+                "name_portuguese": "Estoniano",
+                "iso_639_3": "est"
+              },
+              {
+                "name_english": "Võro",
+                "name_portuguese": "Võro",
+                "iso_639_3": "vro"
+              },
+              {
+                "name_english": "Karelian",
+                "name_portuguese": "Careliano",
+                "iso_639_3": "krl"
+              },
+              {
+                "name_english": "Ludic",
+                "name_portuguese": "Lúdico",
+                "iso_639_3": "lud"
+              },
+              {
+                "name_english": "Veps",
+                "name_portuguese": "Vépsi",
+                "iso_639_3": "vep"
+              },
+              {
+                "name_english": "Ingrian",
+                "name_portuguese": "Ingriano",
+                "iso_639_3": "izh"
+              },
+              {
+                "name_english": "Votic",
+                "name_portuguese": "Vótico",
+                "iso_639_3": "vot"
+              },
+              {
+                "name_english": "Livonian",
+                "name_portuguese": "Livônio",
+                "iso_639_3": "liv"
+              },
+              {
+                "name_english": "Meänkieli",
+                "name_portuguese": "Meänkieli",
+                "iso_639_3": "fit"
+              },
+              {
+                "name_english": "Kven",
+                "name_portuguese": "Queno",
+                "iso_639_3": "fkv"
+              }
+            ]
+          },
+          {
+            "name_english": "Sami",
+            "name_portuguese": "Sami",
+            "sub_branches": [
+              {
+                "name_english": "Eastern Sami",
+                "name_portuguese": "Sami Oriental",
+                "languages": [
+                  {
+                    "name_english": "Kildin Sami",
+                    "name_portuguese": "Sami Quildin",
+                    "iso_639_3": "sjd"
+                  },
+                  {
+                    "name_english": "Ter Sami",
+                    "name_portuguese": "Sami Ter",
+                    "iso_639_3": "sia"
+                  }
+                ]
+              },
+              {
+                "name_english": "Western Sami",
+                "name_portuguese": "Sami Ocidental",
+                "languages": [
+                  {
+                    "name_english": "Northern Sami",
+                    "name_portuguese": "Sami Setentrional",
+                    "iso_639_3": "sme"
+                  },
+                  {
+                    "name_english": "Lule Sami",
+                    "name_portuguese": "Sami Lule",
+                    "iso_639_3": "smj"
+                  },
+                  {
+                    "name_english": "Pite Sami",
+                    "name_portuguese": "Sami Pite",
+                    "iso_639_3": "sje"
+                  },
+                  {
+                    "name_english": "Ume Sami",
+                    "name_portuguese": "Sami Ume",
+                    "iso_639_3": "sju"
+                  },
+                  {
+                    "name_english": "Southern Sami",
+                    "name_portuguese": "Sami Meridional",
+                    "iso_639_3": "sma"
+                  },
+                  {
+                    "name_english": "Inari Sami",
+                    "name_portuguese": "Sami Inari",
+                    "iso_639_3": "smn"
+                  },
+                  {
+                    "name_english": "Skolt Sami",
+                    "name_portuguese": "Sami Skolt",
+                    "iso_639_3": "sms"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "name_english": "Permic",
+            "name_portuguese": "Pérmico",
+            "languages": [
+              {
+                "name_english": "Udmurt",
+                "name_portuguese": "Udmurto",
+                "iso_639_3": "udm"
+              },
+              {
+                "name_english": "Komi-Zyrian",
+                "name_portuguese": "Komi-Ziriano",
+                "iso_639_3": "kpv"
+              },
+              {
+                "name_english": "Komi-Permyak",
+                "name_portuguese": "Komi-Permíaco",
+                "iso_639_3": "koi"
+              }
+            ]
+          },
+          {
+            "name_english": "Mari",
+            "name_portuguese": "Mari",
+            "languages": [
+              {
+                "name_english": "Meadow Mari",
+                "name_portuguese": "Mari de Prado",
+                "iso_639_3": "mhr"
+              },
+              {
+                "name_english": "Hill Mari",
+                "name_portuguese": "Mari da Montanha",
+                "iso_639_3": "mrj"
+              }
+            ]
+          },
+          {
+            "name_english": "Mordvinic",
+            "name_portuguese": "Mordvínico",
+            "languages": [
+              {
+                "name_english": "Erzya",
+                "name_portuguese": "Erzya",
+                "iso_639_3": "myv"
+              },
+              {
+                "name_english": "Moksha",
+                "name_portuguese": "Moksha",
+                "iso_639_3": "mdf"
+              }
+            ]
+          },
+          {
+            "name_english": "Ugric",
+            "name_portuguese": "Úgrico",
+            "sub_branches": [
+              {
+                "name_english": "Ob-Ugric",
+                "name_portuguese": "Ob-Úgrico",
+                "languages": [
+                  {
+                    "name_english": "Khanty",
+                    "name_portuguese": "Khanty",
+                    "iso_639_3": "kca"
+                  },
+                  {
+                    "name_english": "Mansi",
+                    "name_portuguese": "Mansi",
+                    "iso_639_3": "mns"
+                  }
+                ]
+              },
+              {
+                "name_english": "Hungarian",
+                "name_portuguese": "Húngaro",
+                "languages": [
+                  {
+                    "name_english": "Hungarian",
+                    "name_portuguese": "Húngaro",
+                    "iso_639_3": "hun"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name_english": "Samoyedic",
+        "name_portuguese": "Samoieda",
+        "sub_branches": [
+          {
+            "name_english": "Northern Samoyedic",
+            "name_portuguese": "Samoieda Setentrional",
+            "languages": [
+              {
+                "name_english": "Northern Nenets",
+                "name_portuguese": "Nenets Setentrional",
+                "iso_639_3": "yrk"
+              },
+              {
+                "name_english": "Southern Nenets",
+                "name_portuguese": "Nenets Meridional",
+                "iso_639_3": "bjy"
+              },
+              {
+                "name_english": "Enets",
+                "name_portuguese": "Enets",
+                "iso_639_3": "enf"
+              },
+              {
+                "name_english": "Nganasan",
+                "name_portuguese": "Nganasan",
+                "iso_639_3": "nio"
+              }
+            ]
+          },
+          {
+            "name_english": "Southern Samoyedic",
+            "name_portuguese": "Samoieda Meridional",
+            "languages": [
+              {
+                "name_english": "Selkup",
+                "name_portuguese": "Selkup",
+                "iso_639_3": "sel"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 }
