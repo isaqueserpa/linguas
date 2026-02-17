@@ -1371,4 +1371,781 @@
       ]
     }
   ]
-}
+},
+{
+  "family": "Sino-Tibetan",
+  "englishName": "Sino-Tibetan",
+  "portugueseName": "Sino-Tibetano",
+  "isoCode": null,
+  "description": "The Sino-Tibetan language family, the world's second-largest by number of speakers",
+  "branches": [
+    {
+      "name": "Sinitic",
+      "englishName": "Sinitic",
+      "portugueseName": "Sinítida",
+      "isoCode": null,
+      "languages": [
+        {
+          "englishName": "Mandarin Chinese",
+          "portugueseName": "Chinês Mandarim",
+          "isoCode": "cmn"
+        },
+        {
+          "englishName": "Cantonese",
+          "portugueseName": "Cantonês",
+          "isoCode": "yue"
+        },
+        {
+          "englishName": "Wu Chinese",
+          "portugueseName": "Chinês Wu",
+          "isoCode": "wuu"
+        },
+        {
+          "englishName": "Hakka Chinese",
+          "portugueseName": "Chinês Hakka",
+          "isoCode": "hak"
+        },
+        {
+          "englishName": "Gan Chinese",
+          "portugueseName": "Chinês Gan",
+          "isoCode": "gan"
+        },
+        {
+          "englishName": "Xiang Chinese",
+          "portugueseName": "Chinês Xiang",
+          "isoCode": "hsn"
+        },
+        {
+          "englishName": "Jin Chinese",
+          "portugueseName": "Chinês Jin",
+          "isoCode": "cjy"
+        },
+        {
+          "englishName": "Huizhou Chinese",
+          "portugueseName": "Chinês Huizhou",
+          "isoCode": "czh"
+        },
+        {
+          "englishName": "Pinghua",
+          "portugueseName": "Pinghua",
+          "isoCode": "cph"
+        }
+      ],
+      "subgroups": [
+        {
+          "name": "Min",
+          "englishName": "Min",
+          "portugueseName": "Min",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Min Nan",
+              "portugueseName": "Min Nan",
+              "isoCode": "nan"
+            },
+            {
+              "englishName": "Min Bei",
+              "portugueseName": "Min Bei",
+              "isoCode": "mnp"
+            },
+            {
+              "englishName": "Min Dong",
+              "portugueseName": "Min Dong",
+              "isoCode": "cdo"
+            },
+            {
+              "englishName": "Min Zhong",
+              "portugueseName": "Min Zhong",
+              "isoCode": "czo"
+            },
+            {
+              "englishName": "Pu-Xian",
+              "portugueseName": "Pu-Xian",
+              "isoCode": "cpx"
+            },
+            {
+              "englishName": "Hainanese",
+              "portugueseName": "Hainês",
+              "isoCode": "hnn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tibeto-Burman",
+      "englishName": "Tibeto-Burman",
+      "portugueseName": "Tibeto-Birmânico",
+      "isoCode": null,
+      "branches": [
+        {
+          "name": "Bodish",
+          "englishName": "Bodish",
+          "portugueseName": "Bodish",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Tibetan",
+              "portugueseName": "Tibetano",
+              "isoCode": "bod"
+            },
+            {
+              "englishName": "Dzongkha",
+              "portugueseName": "Dzongkha",
+              "isoCode": "dzo"
+            },
+            {
+              "englishName": "Sherpa",
+              "portugueseName": "Sherpa",
+              "isoCode": "xsr"
+            },
+            {
+              "englishName": "Sikkimese",
+              "portugueseName": "Siquimês",
+              "isoCode": "sip"
+            }
+          ]
+        },
+        {
+          "name": "Burmish",
+          "englishName": "Burmish",
+          "portugueseName": "Burmish",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Burmese",
+              "portugueseName": "Birmânico",
+              "isoCode": "mya"
+            }
+          ]
+        },
+        {
+          "name": "Loloish",
+          "englishName": "Loloish",
+          "portugueseName": "Loloish",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Yi",
+              "portugueseName": "Yi",
+              "isoCode": "iii"
+            },
+            {
+              "englishName": "Hani",
+              "portugueseName": "Hani",
+              "isoCode": "hni"
+            },
+            {
+              "englishName": "Lahu",
+              "portugueseName": "Lahu",
+              "isoCode": "lhu"
+            },
+            {
+              "englishName": "Akha",
+              "portugueseName": "Akha",
+              "isoCode": "ahk"
+            },
+            {
+              "englishName": "Jino",
+              "portugueseName": "Jino",
+              "isoCode": "jiu"
+            },
+            {
+              "englishName": "Lisu",
+              "portugueseName": "Lisu",
+              "isoCode": "lis"
+            },
+            {
+              "englishName": "Nisu",
+              "portugueseName": "Nisu",
+              "isoCode": "nis"
+            },
+            {
+              "englishName": "Phula",
+              "portugueseName": "Phula",
+              "isoCode": "phh"
+            },
+            {
+              "englishName": "Sani",
+              "portugueseName": "Sani",
+              "isoCode": "ysn"
+            },
+            {
+              "englishName": "Lolopo",
+              "portugueseName": "Lolopo",
+              "isoCode": "ycl"
+            },
+            {
+              "englishName": "Lalo",
+              "portugueseName": "Lalo",
+              "isoCode": "ylo"
+            },
+            {
+              "englishName": "Azha",
+              "portugueseName": "Azha",
+              "isoCode": "aza"
+            },
+            {
+              "englishName": "Atsu",
+              "portugueseName": "Atsu",
+              "isoCode": "atx"
+            },
+            {
+              "englishName": "Pula",
+              "portugueseName": "Pula",
+              "isoCode": "ypu"
+            },
+            {
+              "englishName": "Ache",
+              "portugueseName": "Ache",
+              "isoCode": "acq"
+            },
+            {
+              "englishName": "Lope",
+              "portugueseName": "Lope",
+              "isoCode": "lop"
+            },
+            {
+              "englishName": "Mpi",
+              "portugueseName": "Mpi",
+              "isoCode": "mpz"
+            },
+            {
+              "englishName": "Sangkong",
+              "portugueseName": "Sangkong",
+              "isoCode": "sgk"
+            },
+            {
+              "englishName": "Agoi",
+              "portugueseName": "Agoi",
+              "isoCode": "yin"
+            },
+            {
+              "englishName": "Awu",
+              "portugueseName": "Awu",
+              "isoCode": "yiu"
+            }
+          ]
+        },
+        {
+          "name": "Qiangic",
+          "englishName": "Qiangic",
+          "portugueseName": "Qiangic",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Northern Qiang",
+              "portugueseName": "Qiang do Norte",
+              "isoCode": "cng"
+            },
+            {
+              "englishName": "Southern Qiang",
+              "portugueseName": "Qiang do Sul",
+              "isoCode": "qxs"
+            },
+            {
+              "englishName": "Pumi",
+              "portugueseName": "Pumi",
+              "isoCode": "pmi"
+            },
+            {
+              "englishName": "Muya",
+              "portugueseName": "Muya",
+              "isoCode": "mvm"
+            }
+          ]
+        },
+        {
+          "name": "Karenic",
+          "englishName": "Karenic",
+          "portugueseName": "Karénico",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Sgaw Karen",
+              "portugueseName": "Karen Sgaw",
+              "isoCode": "ksw"
+            },
+            {
+              "englishName": "Pwo Karen",
+              "portugueseName": "Karen Pwo",
+              "isoCode": "pwo"
+            },
+            {
+              "englishName": "Pa'o Karen",
+              "portugueseName": "Karen Pa'o",
+              "isoCode": "blk"
+            }
+          ]
+        },
+        {
+          "name": "Jingpho-Luish",
+          "englishName": "Jingpho-Luish",
+          "portugueseName": "Jingpho-Luish",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Jingpho",
+              "portugueseName": "Jingpho",
+              "isoCode": "kac"
+            },
+            {
+              "englishName": "Rawang",
+              "portugueseName": "Rawang",
+              "isoCode": "raw"
+            }
+          ]
+        },
+        {
+          "name": "Bodo-Garo",
+          "englishName": "Bodo-Garo",
+          "portugueseName": "Bodo-Garo",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Bodo",
+              "portugueseName": "Bodo",
+              "isoCode": "brx"
+            },
+            {
+              "englishName": "Garo",
+              "portugueseName": "Garo",
+              "isoCode": "grt"
+            },
+            {
+              "englishName": "Kokborok",
+              "portugueseName": "Kokborok",
+              "isoCode": "trk"
+            }
+          ]
+        },
+        {
+          "name": "Tani",
+          "englishName": "Tani",
+          "portugueseName": "Tani",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Adi",
+              "portugueseName": "Adi",
+              "isoCode": "adi"
+            },
+            {
+              "englishName": "Apatani",
+              "portugueseName": "Apatani",
+              "isoCode": "apt"
+            },
+            {
+              "englishName": "Nyishi",
+              "portugueseName": "Nyishi",
+              "isoCode": "njz"
+            },
+            {
+              "englishName": "Galo",
+              "portugueseName": "Galo",
+              "isoCode": "hlo"
+            },
+            {
+              "englishName": "Tagin",
+              "portugueseName": "Tagin",
+              "isoCode": "tgj"
+            }
+          ]
+        },
+        {
+          "name": "Kuki-Chin-Naga",
+          "englishName": "Kuki-Chin-Naga",
+          "portugueseName": "Kuki-Chin-Naga",
+          "isoCode": null,
+          "subgroups": [
+            {
+              "name": "Kuki-Chin",
+              "englishName": "Kuki-Chin",
+              "portugueseName": "Kuki-Chin",
+              "isoCode": null,
+              "languages": [
+                {
+                  "englishName": "Mizo",
+                  "portugueseName": "Mizo",
+                  "isoCode": "lus"
+                },
+                {
+                  "englishName": "Hmar",
+                  "portugueseName": "Hmar",
+                  "isoCode": "hmr"
+                },
+                {
+                  "englishName": "Thadou",
+                  "portugueseName": "Thadou",
+                  "isoCode": "tcz"
+                },
+                {
+                  "englishName": "Zou",
+                  "portugueseName": "Zou",
+                  "isoCode": "zom"
+                },
+                {
+                  "englishName": "Paite",
+                  "portugueseName": "Paite",
+                  "isoCode": "pck"
+                },
+                {
+                  "englishName": "Hakha Chin",
+                  "portugueseName": "Chin Hakha",
+                  "isoCode": "cnh"
+                },
+                {
+                  "englishName": "Falam Chin",
+                  "portugueseName": "Chin Falam",
+                  "isoCode": "cfm"
+                },
+                {
+                  "englishName": "Tedim Chin",
+                  "portugueseName": "Chin Tedim",
+                  "isoCode": "tdz"
+                },
+                {
+                  "englishName": "Simte",
+                  "portugueseName": "Simte",
+                  "isoCode": "smt"
+                },
+                {
+                  "englishName": "Sizo",
+                  "portugueseName": "Sizo",
+                  "isoCode": "siz"
+                },
+                {
+                  "englishName": "Gangte",
+                  "portugueseName": "Gangte",
+                  "isoCode": "gnb"
+                },
+                {
+                  "englishName": "Vaiphei",
+                  "portugueseName": "Vaiphei",
+                  "isoCode": "vap"
+                },
+                {
+                  "englishName": "Kom",
+                  "portugueseName": "Kom",
+                  "isoCode": "kmm"
+                },
+                {
+                  "englishName": "Lamkang",
+                  "portugueseName": "Lamkang",
+                  "isoCode": "lmk"
+                },
+                {
+                  "englishName": "Chothe",
+                  "portugueseName": "Chothe",
+                  "isoCode": "cth"
+                },
+                {
+                  "englishName": "Mara",
+                  "portugueseName": "Mara",
+                  "isoCode": "mrh"
+                },
+                {
+                  "englishName": "Ralte",
+                  "portugueseName": "Ralte",
+                  "isoCode": "rlt"
+                },
+                {
+                  "englishName": "Bawm",
+                  "portugueseName": "Bawm",
+                  "isoCode": "bgr"
+                },
+                {
+                  "englishName": "Chinbon Chin",
+                  "portugueseName": "Chin Chinbon",
+                  "isoCode": "cnb"
+                },
+                {
+                  "englishName": "Asho Chin",
+                  "portugueseName": "Chin Asho",
+                  "isoCode": "csh"
+                },
+                {
+                  "englishName": "Khumi",
+                  "portugueseName": "Khumi",
+                  "isoCode": "kdi"
+                },
+                {
+                  "englishName": "Matu Chin",
+                  "portugueseName": "Chin Matu",
+                  "isoCode": "hlt"
+                },
+                {
+                  "englishName": "Senthang",
+                  "portugueseName": "Senthang",
+                  "isoCode": "sez"
+                },
+                {
+                  "englishName": "Sumtu Chin",
+                  "portugueseName": "Chin Sumtu",
+                  "isoCode": "csy"
+                },
+                {
+                  "englishName": "Zyphei",
+                  "portugueseName": "Zyphei",
+                  "isoCode": "zyp"
+                }
+              ]
+            },
+            {
+              "name": "Naga",
+              "englishName": "Naga",
+              "portugueseName": "Naga",
+              "isoCode": null,
+              "languages": [
+                {
+                  "englishName": "Ao Naga",
+                  "portugueseName": "Naga Ao",
+                  "isoCode": "njo"
+                },
+                {
+                  "englishName": "Lotha Naga",
+                  "portugueseName": "Naga Lotha",
+                  "isoCode": "njh"
+                },
+                {
+                  "englishName": "Sumi Naga",
+                  "portugueseName": "Naga Sumi",
+                  "isoCode": "nsm"
+                },
+                {
+                  "englishName": "Phom Naga",
+                  "portugueseName": "Naga Phom",
+                  "isoCode": "njw"
+                },
+                {
+                  "englishName": "Konyak Naga",
+                  "portugueseName": "Naga Konyak",
+                  "isoCode": "nbe"
+                },
+                {
+                  "englishName": "Chang Naga",
+                  "portugueseName": "Naga Chang",
+                  "isoCode": "nbc"
+                },
+                {
+                  "englishName": "Yimchungru",
+                  "portugueseName": "Yimchungru",
+                  "isoCode": "yim"
+                },
+                {
+                  "englishName": "Sangtam Naga",
+                  "portugueseName": "Naga Sangtam",
+                  "isoCode": "nsa"
+                },
+                {
+                  "englishName": "Rengma Naga",
+                  "portugueseName": "Naga Rengma",
+                  "isoCode": "nxr"
+                },
+                {
+                  "englishName": "Zeme",
+                  "portugueseName": "Zeme",
+                  "isoCode": "nzm"
+                },
+                {
+                  "englishName": "Liangmai",
+                  "portugueseName": "Liangmai",
+                  "isoCode": "lrm"
+                },
+                {
+                  "englishName": "Tangkhul Naga",
+                  "portugueseName": "Naga Tangkhul",
+                  "isoCode": "nmf"
+                },
+                {
+                  "englishName": "Rongmei",
+                  "portugueseName": "Rongmei",
+                  "isoCode": "ngr"
+                },
+                {
+                  "englishName": "Pochuri Naga",
+                  "portugueseName": "Naga Pochuri",
+                  "isoCode": "npo"
+                },
+                {
+                  "englishName": "Wancho Naga",
+                  "portugueseName": "Naga Wancho",
+                  "isoCode": "nnp"
+                },
+                {
+                  "englishName": "Nocte Naga",
+                  "portugueseName": "Naga Nocte",
+                  "isoCode": "nct"
+                },
+                {
+                  "englishName": "Maring",
+                  "portugueseName": "Maring",
+                  "isoCode": "nng"
+                },
+                {
+                  "englishName": "Aimol",
+                  "portugueseName": "Aimol",
+                  "isoCode": "aim"
+                },
+                {
+                  "englishName": "Anal",
+                  "portugueseName": "Anal",
+                  "isoCode": "anm"
+                },
+                {
+                  "englishName": "Mao Naga",
+                  "portugueseName": "Naga Mao",
+                  "isoCode": "mao"
+                },
+                {
+                  "englishName": "Makury",
+                  "portugueseName": "Makury",
+                  "isoCode": "mkx"
+                },
+                {
+                  "englishName": "Ponyo",
+                  "portugueseName": "Ponyo",
+                  "isoCode": "npg"
+                },
+                {
+                  "englishName": "Poumai",
+                  "portugueseName": "Poumai",
+                  "isoCode": "pou"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tamangic",
+          "englishName": "Tamangic",
+          "portugueseName": "Tamangic",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Eastern Tamang",
+              "portugueseName": "Tamang Oriental",
+              "isoCode": "taj"
+            },
+            {
+              "englishName": "Western Tamang",
+              "portugueseName": "Tamang Ocidental",
+              "isoCode": "tdg"
+            },
+            {
+              "englishName": "Gurung",
+              "portugueseName": "Gurung",
+              "isoCode": "gvr"
+            },
+            {
+              "englishName": "Thakali",
+              "portugueseName": "Thakali",
+              "isoCode": "ths"
+            }
+          ]
+        },
+        {
+          "name": "Kiranti",
+          "englishName": "Kiranti",
+          "portugueseName": "Kiranti",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Limbu",
+              "portugueseName": "Limbu",
+              "isoCode": "lif"
+            },
+            {
+              "englishName": "Bantawa",
+              "portugueseName": "Bantawa",
+              "isoCode": "bap"
+            }
+          ]
+        },
+        {
+          "name": "Newaric",
+          "englishName": "Newaric",
+          "portugueseName": "Newaric",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Newari",
+              "portugueseName": "Newari",
+              "isoCode": "new"
+            }
+          ]
+        },
+        {
+          "name": "Lepcha",
+          "englishName": "Lepcha",
+          "portugueseName": "Lepcha",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Lepcha",
+              "portugueseName": "Lepcha",
+              "isoCode": "lep"
+            }
+          ]
+        },
+        {
+          "name": "Meiteiic",
+          "englishName": "Meiteiic",
+          "portugueseName": "Meiteiic",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Manipuri",
+              "portugueseName": "Manipuri",
+              "isoCode": "mni"
+            }
+          ]
+        },
+        {
+          "name": "Bai",
+          "englishName": "Bai",
+          "portugueseName": "Bai",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Bai",
+              "portugueseName": "Bai",
+              "isoCode": "bca"
+            }
+          ]
+        },
+        {
+          "name": "Mising",
+          "englishName": "Mising",
+          "portugueseName": "Mising",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Mising",
+              "portugueseName": "Mising",
+              "isoCode": "mrg"
+            }
+          ]
+        },
+        {
+          "name": "Mishmi",
+          "englishName": "Mishmi",
+          "portugueseName": "Mishmi",
+          "isoCode": null,
+          "languages": [
+            {
+              "englishName": "Idu Mishmi",
+              "portugueseName": "Idu Mishmi",
+              "isoCode": "clk"
+            },
+            {
+              "englishName": "Digaro Mishmi",
+              "portugueseName": "Digaro Mishmi",
+              "isoCode": "tcz"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
