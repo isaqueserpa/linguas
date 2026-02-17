@@ -2149,3 +2149,853 @@
     }
   ]
 },
+{
+  "familyName": {
+    "english": "Afro-Asiatic",
+    "portuguese": "Afro-Asiático"
+  },
+  "familyCode": "afa",
+  "description": "A large family of languages spoken primarily in Africa and the Middle East, comprising six major branches",
+  "branches": {
+    "semitic": {
+      "branchName": {
+        "english": "Semitic",
+        "portuguese": "Semítico"
+      },
+      "subbranches": {
+        "centralSemitic": {
+          "subranchName": {
+            "english": "Central Semitic",
+            "portuguese": "Semítico Central"
+          },
+          "subsubbranches": {
+            "arabic": {
+              "groupName": {
+                "english": "Arabic",
+                "portuguese": "Árabe"
+              },
+              "languages": [
+                {
+                  "english": "Standard Arabic",
+                  "portuguese": "Árabe Padrão",
+                  "iso639_3": "arb"
+                },
+                {
+                  "english": "Modern Standard Arabic",
+                  "portuguese": "Árabe Moderno Padrão",
+                  "iso639_3": "msa"
+                },
+                {
+                  "english": "Egyptian Arabic",
+                  "portuguese": "Árabe Egípcio",
+                  "iso639_3": "arz"
+                },
+                {
+                  "english": "Gulf Arabic",
+                  "portuguese": "Árabe do Golfo",
+                  "iso639_3": "afb"
+                },
+                {
+                  "english": "Levantine Arabic",
+                  "portuguese": "Árabe Levantino",
+                  "iso639_3": "apc"
+                },
+                {
+                  "english": "Palestinian Arabic",
+                  "portuguese": "Árabe Palestino",
+                  "iso639_3": "ajp"
+                },
+                {
+                  "english": "Syrian Arabic",
+                  "portuguese": "Árabe Sírio",
+                  "iso639_3": "aec"
+                },
+                {
+                  "english": "Jordanian Arabic",
+                  "portuguese": "Árabe Jordaniano",
+                  "iso639_3": "ajp"
+                },
+                {
+                  "english": "Iraqi Arabic",
+                  "portuguese": "Árabe Iraquiano",
+                  "iso639_3": "acm"
+                },
+                {
+                  "english": "Moroccan Arabic",
+                  "portuguese": "Árabe Marroquino",
+                  "iso639_3": "ary"
+                },
+                {
+                  "english": "Algerian Arabic",
+                  "portuguese": "Árabe Argelino",
+                  "iso639_3": "arq"
+                },
+                {
+                  "english": "Tunisian Arabic",
+                  "portuguese": "Árabe Tunisiano",
+                  "iso639_3": "aeb"
+                },
+                {
+                  "english": "Libyan Arabic",
+                  "portuguese": "Árabe Líbio",
+                  "iso639_3": "ayl"
+                },
+                {
+                  "english": "Sudanese Arabic",
+                  "portuguese": "Árabe Sudanês",
+                  "iso639_3": "apd"
+                },
+                {
+                  "english": "Yemeni Arabic",
+                  "portuguese": "Árabe Iemenita",
+                  "iso639_3": "ayn"
+                },
+                {
+                  "english": "Hadramawt Arabic",
+                  "portuguese": "Árabe de Hadramawt",
+                  "iso639_3": "auz"
+                },
+                {
+                  "english": "Omani Arabic",
+                  "portuguese": "Árabe Omanita",
+                  "iso639_3": "acx"
+                },
+                {
+                  "english": "Baharna Arabic",
+                  "portuguese": "Árabe Baharna",
+                  "iso639_3": "abh"
+                },
+                {
+                  "english": "Najdi Arabic",
+                  "portuguese": "Árabe Najdi",
+                  "iso639_3": "ars"
+                },
+                {
+                  "english": "Maltese",
+                  "portuguese": "Maltês",
+                  "iso639_3": "mlt"
+                }
+              ]
+            },
+            "hebrewAramaic": {
+              "groupName": {
+                "english": "Hebrew-Aramaic",
+                "portuguese": "Hebraico-Aramaico"
+              },
+              "languages": [
+                {
+                  "english": "Hebrew",
+                  "portuguese": "Hebraico",
+                  "iso639_3": "heb"
+                },
+                {
+                  "english": "Aramaic",
+                  "portuguese": "Aramaico",
+                  "iso639_3": "arc"
+                },
+                {
+                  "english": "Assyrian Neo-Aramaic",
+                  "portuguese": "Aramaico Neo-Assírio",
+                  "iso639_3": "aii"
+                },
+                {
+                  "english": "Chaldean Neo-Aramaic",
+                  "portuguese": "Aramaico Neo-Caldeu",
+                  "iso639_3": "cld"
+                },
+                {
+                  "english": "Western Neo-Aramaic",
+                  "portuguese": "Aramaico Neo-Ocidental",
+                  "iso639_3": "amw"
+                },
+                {
+                  "english": "Turoyo",
+                  "portuguese": "Turoyo",
+                  "iso639_3": "tru"
+                },
+                {
+                  "english": "Juhuri",
+                  "portuguese": "Juhuri",
+                  "iso639_3": "jpr"
+                }
+              ]
+            }
+          }
+        },
+        "southSemitic": {
+          "subranchName": {
+            "english": "South Semitic",
+            "portuguese": "Semítico do Sul"
+          },
+          "subsubbranches": {
+            "ethiopic": {
+              "groupName": {
+                "english": "Ethiopic",
+                "portuguese": "Etíope"
+              },
+              "subgroups": {
+                "ge_ez": {
+                  "subgroupName": {
+                    "english": "Ge'ez",
+                    "portuguese": "Ge'ez"
+                  },
+                  "languages": [
+                    {
+                      "english": "Ge'ez",
+                      "portuguese": "Ge'ez",
+                      "iso639_3": "gez"
+                    }
+                  ]
+                },
+                "gurage": {
+                  "subgroupName": {
+                    "english": "Gurage",
+                    "portuguese": "Gurage"
+                  },
+                  "languages": [
+                    {
+                      "english": "Sebat Bet Gurage",
+                      "portuguese": "Gurage Sebat Bet",
+                      "iso639_3": "sgw"
+                    },
+                    {
+                      "english": "Mesqan",
+                      "portuguese": "Mesqan",
+                      "iso639_3": "mvz"
+                    },
+                    {
+                      "english": "Muher",
+                      "portuguese": "Muher",
+                      "iso639_3": "mue"
+                    },
+                    {
+                      "english": "East Gurage",
+                      "portuguese": "Gurage Oriental",
+                      "iso639_3": "gur"
+                    }
+                  ]
+                },
+                "amharicTigrinyaGroup": {
+                  "subgroupName": {
+                    "english": "Amharic-Tigrinya Group",
+                    "portuguese": "Grupo Amárico-Tigrinia"
+                  },
+                  "languages": [
+                    {
+                      "english": "Amharic",
+                      "portuguese": "Amárico",
+                      "iso639_3": "amh"
+                    },
+                    {
+                      "english": "Tigrinya",
+                      "portuguese": "Tigrinia",
+                      "iso639_3": "tir"
+                    },
+                    {
+                      "english": "Tigre",
+                      "portuguese": "Tigré",
+                      "iso639_3": "tig"
+                    }
+                  ]
+                },
+                "harariSilteGroup": {
+                  "subgroupName": {
+                    "english": "Harari-Silt'e Group",
+                    "portuguese": "Grupo Harari-Silt'e"
+                  },
+                  "languages": [
+                    {
+                      "english": "Harari",
+                      "portuguese": "Harari",
+                      "iso639_3": "har"
+                    },
+                    {
+                      "english": "Silt'e",
+                      "portuguese": "Silt'e",
+                      "iso639_3": "stv"
+                    }
+                  ]
+                }
+              }
+            },
+            "modern_southArabian": {
+              "groupName": {
+                "english": "Modern South Arabian",
+                "portuguese": "Árabe do Sul Moderno"
+              },
+              "languages": [
+                {
+                  "english": "Mehri",
+                  "portuguese": "Mehri",
+                  "iso639_3": "gdq"
+                },
+                {
+                  "english": "Shimmer",
+                  "portuguese": "Shimmer",
+                  "iso639_3": "shv"
+                },
+                {
+                  "english": "Soqotri",
+                  "portuguese": "Socotri",
+                  "iso639_3": "sqt"
+                },
+                {
+                  "english": "Bathari",
+                  "portuguese": "Bathari",
+                  "iso639_3": "bah"
+                }
+              ]
+            }
+          }
+        },
+        "eastSemitic": {
+          "subranchName": {
+            "english": "East Semitic",
+            "portuguese": "Semítico Oriental"
+          },
+          "note": "Extinct languages, included for historical completeness",
+          "languages": [
+            {
+              "english": "Akkadian",
+              "portuguese": "Acádio",
+              "iso639_3": "akk"
+            }
+          ]
+        }
+      }
+    },
+    "berber": {
+      "branchName": {
+        "english": "Berber",
+        "portuguese": "Bérbere"
+      },
+      "alternateNames": {
+        "english": "Amazigh",
+        "portuguese": "Amazíg"
+      },
+      "subgroups": {
+        "northernBerber": {
+          "subgroupName": {
+            "english": "Northern Berber",
+            "portuguese": "Bérbere Setentrional"
+          },
+          "languages": [
+            {
+              "english": "Tarifit",
+              "portuguese": "Tarifit",
+              "iso639_3": "rif"
+            },
+            {
+              "english": "Tachelhit",
+              "portuguese": "Tachelhit",
+              "iso639_3": "shi"
+            },
+            {
+              "english": "Kabyle",
+              "portuguese": "Cabilo",
+              "iso639_3": "kab"
+            },
+            {
+              "english": "Tamazight",
+              "portuguese": "Tamazigth",
+              "iso639_3": "tzm"
+            },
+            {
+              "english": "Tarifit",
+              "portuguese": "Tarifit",
+              "iso639_3": "rif"
+            },
+            {
+              "english": "Shilha",
+              "portuguese": "Shilha",
+              "iso639_3": "shi"
+            }
+          ]
+        },
+        "easternBerber": {
+          "subgroupName": {
+            "english": "Eastern Berber",
+            "portuguese": "Bérbere Oriental"
+          },
+          "languages": [
+            {
+              "english": "Tuareg",
+              "portuguese": "Tuaregue",
+              "iso639_3": "tmh"
+            },
+            {
+              "english": "Tassawaq",
+              "portuguese": "Tassawaq",
+              "iso639_3": "twq"
+            },
+            {
+              "english": "Siwi",
+              "portuguese": "Siuá",
+              "iso639_3": "siz"
+            }
+          ]
+        },
+        "southernBerber": {
+          "subgroupName": {
+            "english": "Southern Berber",
+            "portuguese": "Bérbere Meridional"
+          },
+          "languages": [
+            {
+              "english": "Zenaga",
+              "portuguese": "Zenaga",
+              "iso639_3": "zen"
+            }
+          ]
+        },
+        "easternBerberLanguages": {
+          "subgroupName": {
+            "english": "Eastern Berber Languages",
+            "portuguese": "Línguas Bérberes Orientais"
+          },
+          "languages": [
+            {
+              "english": "Ghadames",
+              "portuguese": "Ghadamis",
+              "iso639_3": "gha"
+            },
+            {
+              "english": "Nafusi",
+              "portuguese": "Nafúsi",
+              "iso639_3": "jbn"
+            },
+            {
+              "english": "Sokna",
+              "portuguese": "Sokna",
+              "iso639_3": "sns"
+            }
+          ]
+        }
+      }
+    },
+    "chadic": {
+      "branchName": {
+        "english": "Chadic",
+        "portuguese": "Chádico"
+      },
+      "subgroups": {
+        "chadic_A": {
+          "subgroupName": {
+            "english": "Chadic A",
+            "portuguese": "Chádico A"
+          },
+          "languages": [
+            {
+              "english": "Hausa",
+              "portuguese": "Hauçá",
+              "iso639_3": "hau"
+            }
+          ]
+        },
+        "chadic_B": {
+          "subgroupName": {
+            "english": "Chadic B",
+            "portuguese": "Chádico B"
+          },
+          "subsubgroups": {
+            "boleBadeGroup": {
+              "subsubgroupName": {
+                "english": "Bole-Bade Group",
+                "portuguese": "Grupo Bole-Bade"
+              },
+              "languages": [
+                {
+                  "english": "Bole",
+                  "portuguese": "Bole",
+                  "iso639_3": "bol"
+                },
+                {
+                  "english": "Bade",
+                  "portuguese": "Bade",
+                  "iso639_3": "bde"
+                },
+                {
+                  "english": "Gera",
+                  "portuguese": "Gera",
+                  "iso639_3": "gew"
+                }
+              ]
+            },
+            "margiMandara": {
+              "subsubgroupName": {
+                "english": "Margi-Mandara",
+                "portuguese": "Margi-Mandara"
+              },
+              "languages": [
+                {
+                  "english": "Margi",
+                  "portuguese": "Margi",
+                  "iso639_3": "mrt"
+                },
+                {
+                  "english": "Mandara",
+                  "portuguese": "Mandara",
+                  "iso639_3": "mnd"
+                }
+              ]
+            },
+            "noLocationType": {
+              "subsubgroupName": {
+                "english": "Ngas-Maha-Vere",
+                "portuguese": "Ngas-Maha-Vere"
+              },
+              "languages": [
+                {
+                  "english": "Ngas",
+                  "portuguese": "Ngas",
+                  "iso639_3": "anc"
+                },
+                {
+                  "english": "Maha",
+                  "portuguese": "Maha",
+                  "iso639_3": "mhh"
+                }
+              ]
+            }
+          }
+        },
+        "chadic_C": {
+          "subgroupName": {
+            "english": "Chadic C",
+            "portuguese": "Chádico C"
+          },
+          "languages": [
+            {
+              "english": "Tera",
+              "portuguese": "Tera",
+              "iso639_3": "ter"
+            },
+            {
+              "english": "Tangale",
+              "portuguese": "Tangale",
+              "iso639_3": "tna"
+            }
+          ]
+        },
+        "chadic_D": {
+          "subgroupName": {
+            "english": "Chadic D",
+            "portuguese": "Chádico D"
+          },
+          "languages": [
+            {
+              "english": "Bachama",
+              "portuguese": "Bachama",
+              "iso639_3": "bch"
+            },
+            {
+              "english": "Cam",
+              "portuguese": "Cam",
+              "iso639_3": "cda"
+            }
+          ]
+        },
+        "chadic_E": {
+          "subgroupName": {
+            "english": "Chadic E",
+            "portuguese": "Chádico E"
+          },
+          "languages": [
+            {
+              "english": "Ngizim",
+              "portuguese": "Ngizim",
+              "iso639_3": "ngi"
+            },
+            {
+              "english": "Karekare",
+              "portuguese": "Karekare",
+              "iso639_3": "kar"
+            }
+          ]
+        }
+      }
+    },
+    "cushitic": {
+      "branchName": {
+        "english": "Cushitic",
+        "portuguese": "Cushítico"
+      },
+      "subgroups": {
+        "northernCushitic": {
+          "subgroupName": {
+            "english": "Northern Cushitic",
+            "portuguese": "Cushítico Setentrional"
+          },
+          "languages": [
+            {
+              "english": "Beja",
+              "portuguese": "Beja",
+              "iso639_3": "bej"
+            }
+          ]
+        },
+        "centralCushitic": {
+          "subgroupName": {
+            "english": "Central Cushitic",
+            "portuguese": "Cushítico Central"
+          },
+          "languages": [
+            {
+              "english": "Agaw",
+              "portuguese": "Agaw",
+              "iso639_3": "ahg"
+            },
+            {
+              "english": "Awngi",
+              "portuguese": "Awngi",
+              "iso639_3": "awi"
+            },
+            {
+              "english": "Kunama",
+              "portuguese": "Kunama",
+              "iso639_3": "kun"
+            }
+          ]
+        },
+        "easternCushitic": {
+          "subgroupName": {
+            "english": "Eastern Cushitic",
+            "portuguese": "Cushítico Oriental"
+          },
+          "subsubgroups": {
+            "somaliAfar": {
+              "subsubgroupName": {
+                "english": "Somali-Afar",
+                "portuguese": "Somali-Afar"
+              },
+              "languages": [
+                {
+                  "english": "Somali",
+                  "portuguese": "Somali",
+                  "iso639_3": "som"
+                },
+                {
+                  "english": "Afar",
+                  "portuguese": "Afar",
+                  "iso639_3": "aar"
+                },
+                {
+                  "english": "Saho",
+                  "portuguese": "Saho",
+                  "iso639_3": "ssy"
+                }
+              ]
+            },
+            "oromoSidamoGroup": {
+              "subsubgroupName": {
+                "english": "Oromo-Sidamo Group",
+                "portuguese": "Grupo Oromo-Sidamo"
+              },
+              "languages": [
+                {
+                  "english": "Oromo",
+                  "portuguese": "Oromo",
+                  "iso639_3": "orm"
+                },
+                {
+                  "english": "Sidamo",
+                  "portuguese": "Sidamo",
+                  "iso639_3": "sid"
+                },
+                {
+                  "english": "Hadiyya",
+                  "portuguese": "Hadiyya",
+                  "iso639_3": "hdy"
+                },
+                {
+                  "english": "Kambata",
+                  "portuguese": "Kambata",
+                  "iso639_3": "ktb"
+                },
+                {
+                  "english": "Tambaro",
+                  "portuguese": "Tambaro",
+                  "iso639_3": "tmr"
+                }
+              ]
+            },
+            "dulayGroup": {
+              "subsubgroupName": {
+                "english": "Dulay Group",
+                "portuguese": "Grupo Dulay"
+              },
+              "languages": [
+                {
+                  "english": "Daasanach",
+                  "portuguese": "Daasanach",
+                  "iso639_3": "dsh"
+                },
+                {
+                  "english": "Elmolo",
+                  "portuguese": "Elmolo",
+                  "iso639_3": "eml"
+                },
+                {
+                  "english": "Sakuye",
+                  "portuguese": "Sakuye",
+                  "iso639_3": "sku"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "omotic": {
+      "branchName": {
+        "english": "Omotic",
+        "portuguese": "Omótico"
+      },
+      "note": "Classification of Omotic as a branch of Afro-Asiatic is debated; sometimes considered independent",
+      "subgroups": {
+        "northernOmotic": {
+          "subgroupName": {
+            "english": "Northern Omotic",
+            "portuguese": "Omótico Setentrional"
+          },
+          "languages": [
+            {
+              "english": "Wolaytta",
+              "portuguese": "Uolaiata",
+              "iso639_3": "wal"
+            },
+            {
+              "english": "Wollamo",
+              "portuguese": "Wollamo",
+              "iso639_3": "wol"
+            }
+          ]
+        },
+        "southernOmotic": {
+          "subgroupName": {
+            "english": "Southern Omotic",
+            "portuguese": "Omótico Meridional"
+          },
+          "subsubgroups": {
+            "gamoGofa": {
+              "subsubgroupName": {
+                "english": "Gamo-Gofa",
+                "portuguese": "Gamo-Gofa"
+              },
+              "languages": [
+                {
+                  "english": "Gamo",
+                  "portuguese": "Gamo",
+                  "iso639_3": "gmv"
+                },
+                {
+                  "english": "Gofa",
+                  "portuguese": "Gofa",
+                  "iso639_3": "gof"
+                },
+                {
+                  "english": "Zergulla",
+                  "portuguese": "Zergulla",
+                  "iso639_3": "zyg"
+                }
+              ]
+            },
+            "kafaShekkacho": {
+              "subsubgroupName": {
+                "english": "Kafa-Shekkacho",
+                "portuguese": "Kafa-Shekkacho"
+              },
+              "languages": [
+                {
+                  "english": "Kafa",
+                  "portuguese": "Kafa",
+                  "iso639_3": "kbr"
+                },
+                {
+                  "english": "Shekkacho",
+                  "portuguese": "Shekkacho",
+                  "iso639_3": "skc"
+                }
+              ]
+            },
+            "mao": {
+              "subsubgroupName": {
+                "english": "Mao",
+                "portuguese": "Mao"
+              },
+              "languages": [
+                {
+                  "english": "Mao",
+                  "portuguese": "Mao",
+                  "iso639_3": "mpi"
+                }
+              ]
+            },
+            "aroid": {
+              "subsubgroupName": {
+                "english": "Aroid",
+                "portuguese": "Aroid"
+              },
+              "languages": [
+                {
+                  "english": "Aroid",
+                  "portuguese": "Aroid",
+                  "iso639_3": "aro"
+                }
+              ]
+            },
+            "hamer: {
+              "subsubgroupName": {
+                "english": "Hamer-Banna",
+                "portuguese": "Hamer-Banna"
+              },
+              "languages": [
+                {
+                  "english": "Hamer",
+                  "portuguese": "Hamer",
+                  "iso639_3": "amf"
+                },
+                {
+                  "english": "Banna",
+                  "portuguese": "Banna",
+                  "iso639_3": "bhr"
+                }
+              ]
+            },
+            "bench": {
+              "subsubgroupName": {
+                "english": "Bench",
+                "portuguese": "Bench"
+              },
+              "languages": [
+                {
+                  "english": "Bench",
+                  "portuguese": "Bench",
+                  "iso639_3": "bcq"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "egyptian": {
+      "branchName": {
+        "english": "Egyptian",
+        "portuguese": "Egípcio"
+      },
+      "note": "Extinct branch; included for historical and linguistic completeness",
+      "languages": [
+        {
+          "english": "Ancient Egyptian",
+          "portuguese": "Egípcio Antigo",
+          "iso639_3": "egy"
+        },
+        {
+          "english": "Coptic",
+          "portuguese": "Cóptico",
+          "iso639_3": "cop"
+        }
+      ]
+    }
+  }
