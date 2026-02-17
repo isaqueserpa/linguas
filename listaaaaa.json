@@ -1173,4 +1173,202 @@
       }
     ]
   }
+},
+{
+  "families": [
+    {
+      "familyName": "Turkic",
+      "familyNamePt": "Turquica",
+      "branches": [
+        {
+          "branchName": "Common Turkic",
+          "branchNamePt": "Turquica Comum",
+          "subBranches": [
+            {
+              "subBranchName": "Southwestern Turkic (Oghuz)",
+              "subBranchNamePt": "Turquica Sudoeste (Oghuz)",
+              "languages": [
+                {
+                  "englishName": "Turkish",
+                  "portugueseName": "Turco",
+                  "iso639_3": "tur"
+                },
+                {
+                  "englishName": "Gagauz",
+                  "portugueseName": "Gagauz",
+                  "iso639_3": "gag"
+                },
+                {
+                  "englishName": "Azerbaijani",
+                  "portugueseName": "Azerbaijano",
+                  "iso639_3": "aze"
+                },
+                {
+                  "englishName": "Turkmen",
+                  "portugueseName": "Turcomano",
+                  "iso639_3": "tuk"
+                }
+              ]
+            },
+            {
+              "subBranchName": "Northwestern Turkic (Kipchak)",
+              "subBranchNamePt": "Turquica Noroeste (Kipchak)",
+              "languages": [
+                {
+                  "englishName": "Kazakh",
+                  "portugueseName": "Cazaque",
+                  "iso639_3": "kaz"
+                },
+                {
+                  "englishName": "Kyrgyz",
+                  "portugueseName": "Quirguiz",
+                  "iso639_3": "kir"
+                },
+                {
+                  "englishName": "Karachay-Balkar",
+                  "portugueseName": "Carachai-Balcar",
+                  "iso639_3": "krc"
+                },
+                {
+                  "englishName": "Kumyk",
+                  "portugueseName": "Cumique",
+                  "iso639_3": "kum"
+                },
+                {
+                  "englishName": "Tatar",
+                  "portugueseName": "Tatar",
+                  "iso639_3": "tat"
+                },
+                {
+                  "englishName": "Bashkir",
+                  "portugueseName": "Bashkir",
+                  "iso639_3": "bak"
+                },
+                {
+                  "englishName": "Nogay",
+                  "portugueseName": "Nogai",
+                  "iso639_3": "nog"
+                }
+              ]
+            },
+            {
+              "subBranchName": "Northeastern Turkic (Siberian)",
+              "subBranchNamePt": "Turquica Nordeste (Siberiana)",
+              "languages": [
+                {
+                  "englishName": "Sakha (Yakut)",
+                  "portugueseName": "Sakha (Iacuto)",
+                  "iso639_3": "sah"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "branchName": "Eastern Turkic (Karluk)",
+          "branchNamePt": "Turquica Oriental (Karluk)",
+          "languages": [
+            {
+              "englishName": "Uyghur",
+              "portugueseName": "Uigur",
+              "iso639_3": "uig"
+            },
+            {
+              "englishName": "Uzbek",
+              "portugueseName": "Usbeque",
+              "iso639_3": "uzb"
+            }
+          ]
+        },
+        {
+          "branchName": "Southern Turkic",
+          "branchNamePt": "Turquica Meridional",
+          "languages": [
+            {
+              "englishName": "Khalaj",
+              "portugueseName": "Khalaj",
+              "iso639_3": "klj"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "familyName": "Mongolic",
+      "familyNamePt": "Mongólica",
+      "branches": [
+        {
+          "branchName": "Eastern Mongolic",
+          "branchNamePt": "Mongólica Oriental",
+          "subBranches": [
+            {
+              "subBranchName": "Khalkha-Buryat",
+              "subBranchNamePt": "Khalkha-Buriata",
+              "languages": [
+                {
+                  "englishName": "Mongolian",
+                  "portugueseName": "Mongol",
+                  "iso639_3": "khk"
+                },
+                {
+                  "englishName": "Buryat",
+                  "portugueseName": "Buriata",
+                  "iso639_3": "bua"
+                }
+              ]
+            },
+            {
+              "subBranchName": "Khamnigan",
+              "subBranchNamePt": "Khamnigan",
+              "languages": [
+                {
+                  "englishName": "Khamnigan Mongol",
+                  "portugueseName": "Mongol Khamnigan",
+                  "iso639_3": "xal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "branchName": "Western Mongolic",
+          "branchNamePt": "Mongólica Ocidental",
+          "subBranches": [
+            {
+              "subBranchName": "Oirat-Kalmyk",
+              "subBranchNamePt": "Oirata-Calmuco",
+              "languages": [
+                {
+                  "englishName": "Kalmyk",
+                  "portugueseName": "Calmuco",
+                  "iso639_3": "xal"
+                },
+                {
+                  "englishName": "Oirat",
+                  "portugueseName": "Oirata",
+                  "iso639_3": "ojs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "branchName": "Southern Mongolic",
+          "branchNamePt": "Mongólica Meridional",
+          "languages": [
+            {
+              "englishName": "Daur",
+              "portugueseName": "Daur",
+              "iso639_3": "dta"
+            },
+            {
+              "englishName": "Bonan",
+              "portugueseName": "Bonan",
+              "iso639_3": "peh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
