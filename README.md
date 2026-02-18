@@ -1,2 +1,3 @@
-Créditos e Dados do arquivo CSV
-obtido do Glottolog 5.2 (Licença CC-BY 4.0).
+Créditos e Dados
+CSV obtido do Glottolog 5.2 (Licença CC-BY 4.0).
+CSV obtido de iso639-3.sil.org
